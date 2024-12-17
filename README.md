@@ -8,6 +8,11 @@ Southeast Asia, particularly Cambodia, is a region rich in culture, history, and
 The Global Jam Market
 Jams are a beloved staple in many households worldwide, and the market for high-quality, artisanal jams has been growing rapidly. In regions like Cambodia, where French jams are sold at premium prices (around $5-6), there's a significant opportunity to create local alternatives that cater to both local and international markets.
 
+Safety Nets
+Throughout this book, I've made it a priority to cover businesses that you can set up with minimal investment. One such example is creating and selling educational videos.
+
+There's a safety net here: even if you don't make any money, you still gain valuable skills and experience. Plus, you end up with a free product that you can use or share. The knowledge you acquire and the practical skills you develop can open doors to new opportunities, making your efforts worthwhile regardless of immediate financial success.
+
 The Potential for Local Jam-Making
 Cambodia and its Southeast Asian neighbors are home to a variety of exotic fruits, many of which are not commonly found in Western markets. Fruits like dragon fruit, green mango, and lychee offer unique flavors that could set local jams apart from their European counterparts. By producing jams locally, we can capitalize on the freshness and unique taste profiles of these fruits. 
 
