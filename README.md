@@ -86,3 +86,18 @@ The Vision
 In this vision, the ancient and the modern coalesce. Bakers become alchemists, weaving the threads of Cambodian heritage into every loaf. The practice of creating aluminium-free breads is not just about health—it's about honoring the sacred connection between the land and its people.
 
 This is more than bread; it's a manifestation of the spirit, a testament to the enduring legacy of a culture that thrives on innovation and respect for the natural world. And as the sun sets over the rice paddies, casting long shadows, one can't help but feel that the future of Cambodian baking is bright, vibrant, and profoundly rooted in the essence of its land.
+
+The Rosemary Industry: A Journey from Spain to Siem Reap
+In the heart of Siem Reap, where the ancient temples stand as silent witnesses to centuries of history, a new chapter is being written. The climate here, reminiscent of some parts of Spain, holds the promise of cultivating rosemary on a scale that mirrors the success seen in Mediterranean lands.
+
+Embracing the Mediterranean Spirit
+Rosemary, with its robust aroma and versatile uses, has thrived in Spain's sun-drenched fields. The same warm climate and fertile soil in Siem Reap could be the perfect setting for this aromatic herb to flourish. Imagine the fields, bathed in golden sunlight, with rosemary bushes swaying gently in the breeze, their scent mingling with the earthy fragrance of the land.
+
+Beyond Rosemary: A Herb Haven
+But why stop at rosemary? Siem Reap's climate is also conducive to growing other Mediterranean herbs that could thrive and add unique flavors to Cambodian cuisine. Herbs like thyme, oregano, and lavender could find a new home here, bringing a touch of the Mediterranean to the heart of Cambodia.
+
+A Culinary Adventure
+These herbs could transform Cambodian dishes, adding depth and complexity to traditional recipes. Picture a fragrant thyme-infused chicken curry or an oregano-scented vegetable stir-fry. The possibilities are endless, and the fusion of flavors could create a culinary adventure that delights the senses.
+
+The Essence of Siem Reap
+In this journey, Siem Reap becomes more than just a destination; it becomes a place where cultures and flavors intertwine. The rosemary industry, inspired by the success in Spain, could be the start of a broader exploration of herbs and spices, creating a new culinary identity for Cambodia.
