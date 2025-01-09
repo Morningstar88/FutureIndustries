@@ -1,6 +1,6 @@
 # Future Industries
 
-## FThe Potential for Innovation in Cambodia and Southeast Asia
+## The Potential for Innovation in Cambodia and Southeast Asia
 
 ### Introduction
 
