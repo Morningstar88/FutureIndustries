@@ -6,7 +6,7 @@
 
 Southeast Asia, particularly Cambodia, is a region rich in culture, history, and untapped economic potential. As we look towards future industries that can drive growth and development.
 
-I compiled a massive list of the best industries, from ultra-simple like baking bread and jam-making, to rewilding and river-cleaning, to planting forests, to the rosemary industries, home herb gardens, language and massage, low cost education, low cost ar, duckweed, caffien free energy drinks, lavender, raspberry pi and friends, smartphone movie makin, calcium hypochlorite and chlorine dioxide.
+I compiled a massive list of the best industries, from ultra-simple like baking bread and jam-making, to rewilding and river-cleaning, to planting forests, to the rosemary industries, home herb gardens, language and massage, low cost education, low cost ar, duckweed, caffien free energy drinks, lavender, raspberry pi and friends, smartphone movie makin, calcium hypochlorite and chlorine dioxide. Vitamin C, health kits,
 
 I made sure to cover a spectrum of industries
 
