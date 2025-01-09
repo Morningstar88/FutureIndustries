@@ -2,6 +2,71 @@
 
 ## The Potential for Innovation in Cambodia and Southeast Asia
 
+![image](https://github.com/user-attachments/assets/829583cb-22c2-4054-ad4a-1f4745f15c20)
+
+### Introduction
+
+Southeast Asia, particularly Cambodia, is a region rich in culture, history, and untapped economic potential. As we look towards future industries that can drive growth and development.
+
+I compiled a massive list of the best industries, from ultra-simple like baking bread and jam-making, to rewilding and river-cleaning, to planting forests, to the rosemary industries, home herb gardens, language and massage, low cost education, low cost ar, duckweed, caffien free energy drinks, lavender, raspberry pi and friends, smartphone movie makin, calcium hypochlorite and chlorine dioxide. Vitamin C, health kits, the homemade instrument industry.
+
+
+
+I made sure to cover a spectrum of industries
+
+Resoure transformation, waste to energy, 
+
+Related topics:
+WASTE-TO-ENERGY
+NEW WASTE TO RESOURCE SOLUTIONS
+WASTE-TO-RESOURCE
+Resource Extraction Companies:
+
+Resource Conversion Companies:
+
+Resource Distribution Companies:
+
+Resource Innovation Companies:
+
+resource conversion companies:  resource innovation
+
+We need more celebrity engineers...
+
+# Aquaculture and Duckweed
+
+forests and rivers are the backbone of the Siem Reap economy because they provide essential resources for the local communities, such as timber, water, and habitat for a variety of plants and animals. These natural resources can be sustainably managed and harvested to support eco-tourism, agriculture, and other industries, creating a strong foundation for the local economy.
+
+He also suggests that by carefully managing and protecting these resources, it can help preserve the environment and wildlife, creating a harmonious balance between human development and the environment.
+
+Duckweed is an aquatic plant that grows rapidly and can be harvested for many different uses, such as animal feed, fertilizer, and even as a biofuel.
+
+Jake Mackenzie believes that the high levels of nutrients in the water of the lakes in the region make it ideal for growing duckweed on a large scale, and he proposes the establishment of duckweed farms to take advantage of this.
+
+## Homebrewing, Draagon fruit wine, manfo wine, arak high quality liquor...
+
+## The Heavy Metal Detox Industry
+
+
+# Software Design Patterns of the Future.
+
+# Schools of the Future.
+
+# Houses of the Future
+
+![image](https://github.com/user-attachments/assets/1678b5b9-46ce-4c58-9052-470123ed875d)
+
+
+forests and rivers are the backbone of the Siem Reap economy because they provide essential resources for the local communities, such as timber, water, and habitat for a variety of plants and animals. These natural resources can be sustainably managed and harvested to support eco-tourism, agriculture, and other industries, creating a strong foundation for the local economy.
+
+![image](https://github.com/user-attachments/assets/1a8d9de2-84c2-466c-ad46-09a0e812bba3)
+
+
+He also suggests that by carefully managing and protecting these resources, it can help preserve the environment and wildlife, creating a harmonious balance between human development and the environment.
+
+# Future Industries
+
+## The Potential for Innovation in Cambodia and Southeast Asia
+
 ### Introduction
 
 Southeast Asia, particularly Cambodia, is a region rich in culture, history, and untapped economic potential. As we look towards future industries that can drive growth and development.
@@ -11,6 +76,8 @@ I compiled a massive list of the best industries, from ultra-simple like baking 
 I made sure to cover a spectrum of industries
 
 Resoure transformation, waste to energy, 
+
+https://images.pexels.com/photos/33242/cooking-ingredient-cuisine-kitchen.jpg?auto=compress&cs=tinysrgb&w=600
 
 Related topics:
 WASTE-TO-ENERGY
