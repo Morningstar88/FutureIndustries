@@ -36,6 +36,10 @@ Homebrewing, Draagon fruit wine, manfo wine, arak high quality liquor...
 
 # Houses of the Future.
 
+forests and rivers are the backbone of the Siem Reap economy because they provide essential resources for the local communities, such as timber, water, and habitat for a variety of plants and animals. These natural resources can be sustainably managed and harvested to support eco-tourism, agriculture, and other industries, creating a strong foundation for the local economy.
+
+He also suggests that by carefully managing and protecting these resources, it can help preserve the environment and wildlife, creating a harmonious balance between human development and the environment.
+
 # Local Search Engines
 
 
