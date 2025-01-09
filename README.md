@@ -34,7 +34,14 @@ forests and rivers are the backbone of the Siem Reap economy because they provid
 
 He also suggests that by carefully managing and protecting these resources, it can help preserve the environment and wildlife, creating a harmonious balance between human development and the environment.
 
-Homebrewing, Draagon fruit wine, manfo wine, arak high quality liquor...
+Duckweed is an aquatic plant that grows rapidly and can be harvested for many different uses, such as animal feed, fertilizer, and even as a biofuel.
+
+Jake Mackenzie believes that the high levels of nutrients in the water of the lakes in the region make it ideal for growing duckweed on a large scale, and he proposes the establishment of duckweed farms to take advantage of this.
+
+## Homebrewing, Draagon fruit wine, manfo wine, arak high quality liquor...
+
+## The Heavy Metal Detox Industry
+
 
 # Software Design Patterns of the Future.
 
