@@ -29,6 +29,21 @@ Resoure transformation, waste to energy.
 - Rescource Conversion
 - Resource Innovation
 
+- ## Open Source Food Delivery Apps
+
+https://github.com/enatega/food-delivery-singlevendor
+
+open source food delivery success stories
+There are some inspiring success stories in the realm of open-source food delivery projects! Here are a few notable examples:
+
+Enatega: This customizable food delivery application has been successfully deployed over 100 times. It allows users to set up their own order and delivery management systems1. Enatega is praised for its flexibility and ease of use.
+
+OpenDeli: This decentralized, open-source food delivery network empowers local restaurants and couriers to operate independently, ensuring fair treatment and lower fees. It's a great example of how open-source solutions can support local communities2.
+
+Flutter-food-delivery-app-ui: This project on GitHub provides a food ordering and delivery application designed based on real-life scenarios. It's been widely adopted and contributed to by developers around the world3.
+
+These projects showcase how open-source technology can create innovative and efficient solutions in the food delivery industry. Are you interested in any specific aspect of these projects?
+
 resource conversion companies:  resource innovation
 
 We need more celebrity engineers...
