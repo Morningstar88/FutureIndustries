@@ -40,18 +40,32 @@ Enatega: This customizable food delivery application has been successfully deplo
 
 OpenDeli: This decentralized, open-source food delivery network empowers local restaurants and couriers to operate independently, ensuring fair treatment and lower fees. It's a great example of how open-source solutions can support local communities2.
 
+
+![image](https://github.com/user-attachments/assets/8a9e0dfa-7e47-436d-b711-dc3f63a15384)
+
+
 Flutter-food-delivery-app-ui: This project on GitHub provides a food ordering and delivery application designed based on real-life scenarios. It's been widely adopted and contributed to by developers around the world3.
 
 **could you explain the benefits to a cambodian restaurant
 Absolutely! Here are some benefits that a Cambodian restaurant could gain from using an open-source food delivery app like Flutter-food-delivery-app-ui:
 
+
+![image](https://github.com/user-attachments/assets/03eaec2e-26e3-4ea0-a780-028423f2757b)
+
 Cost Savings: Open-source software is free to use, which means you can save on the costs associated with proprietary delivery platforms. This can be especially beneficial for small and medium-sized restaurants.
 
 Customization: With open-source software, you have the flexibility to customize the app to meet your specific needs. This means you can tailor the user experience, menu display, and ordering process to better suit your restaurant's style and customer base.
 
+
+![image](https://github.com/user-attachments/assets/43c907a2-ec49-496c-86e6-d45ca6a0781b)
+
+
 Control Over Operations: Open-source platforms often allow you to maintain more control over your delivery operations. You can manage orders, update menus, and communicate directly with couriers and customers without relying on third-party services.
 
 Community Support: Being part of an open-source project means you have access to a community of developers and users who can offer support, share best practices, and help troubleshoot any issues you might encounter.
+
+
+
 
 Increased Reach: By using a food delivery app, you can reach a wider audience beyond your immediate vicinity. This can help attract new customers who might not have visited your restaurant otherwise.
 
