@@ -66,6 +66,21 @@ No, there are **no fees** associated with using the Flutter-food-delivery-app-ui
 Would you like more information on how to get started with this project?
 
 
+good, are there any interesting food delivery schemes in the world?
+Yes, there are several interesting food delivery schemes around the world that are making waves! Here are a few notable ones:
+
+Delivery Hero: This global company operates in over 70 countries and connects customers with restaurants and shops they love. They also operate small warehouses called "Dmarts" for faster delivery1.
+
+Just Eat Takeaway: This leading global online food delivery marketplace connects consumers and restaurants in 20 countries. They offer a wide range of cuisines and convenient delivery services1.
+
+SkipTheDishes: Based in Canada, this platform offers restaurant food delivery and takeout services. Users can order from a variety of cuisines and have their food delivered right to their doorstep1.
+
+Postmates by Uber: This American company provides food delivery services and has a strong presence in major cities across the United States.
+
+Jahez: Headquartered in Saudi Arabia, Jahez is an online food delivery platform that develops digital platforms for food delivery, logistics, and lifestyle solutions. They have rapidly expanded since their launch in 20162.
+
+These schemes highlight the global growth and innovation in the food delivery industry. Do any of these schemes particularly catch your interest?
+
 (((((
 
 These projects showcase how open-source technology can create innovative and efficient solutions in the food delivery industry. Are you interested in any specific aspect of these projects?
