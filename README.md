@@ -1,9 +1,6 @@
 # Future Industries
 
-![image](https://github.com/user-attachments/assets/212d313c-1f35-4c8d-8869-f33a477d3b35)
 
-
-![image](https://github.com/user-attachments/assets/0a4db3d3-5fd2-40ea-aef1-043523f39797)
 
 ## The Potential for Innovation in Cambodia and Southeast Asia
 
@@ -102,6 +99,32 @@ These projects showcase how open-source technology can create innovative and eff
 resource conversion companies:  resource innovation
 
 We need more celebrity engineers...
+
+![image](https://github.com/user-attachments/assets/212d313c-1f35-4c8d-8869-f33a477d3b35)
+
+Great question! Let's break it down:
+
+### High-Quality Balinese Arak
+- **Ingredients**: Made from the fermented sap of coconut or palm trees.
+- **Alcohol Content**: Typically ranges from 40% to 50%.
+- **Production Process**: The sap is collected, fermented for a few days, and then distilled. High-quality arak is carefully filtered to remove impurities, including methanol.
+- **Taste**: Has a strong, distinct flavor and is often enjoyed neat or in cocktails.
+- **Safety**: When properly made, it is safe to drink, though it should be consumed in moderation due to its high alcohol content.
+
+### Methanol Moonshine
+- **Ingredients**: Often made from various sources, including fruits, grains, or even industrial alcohol.
+- **Alcohol Content**: Can vary widely, but it often contains a significant amount of methanol, which is toxic.
+- **Production Process**: The fermentation and distillation processes are usually less controlled, leading to higher chances of methanol contamination.
+- **Taste**: Can be unpredictable and may have a harsh, unpleasant taste due to impurities.
+- **Safety**: Extremely dangerous to consume due to the presence of methanol, which can cause blindness or even death.
+
+In summary, high-quality Balinese arak is a traditional, carefully crafted spirit with a rich cultural heritage, while methanol moonshine is an unregulated, potentially hazardous drink. Always ensure you're getting your arak from a reputable source to avoid any risks.
+
+Does this help clarify the differences for you?
+
+
+
+![image](https://github.com/user-attachments/assets/0a4db3d3-5fd2-40ea-aef1-043523f39797)
 
 # Aquaculture and Duckweed
 
