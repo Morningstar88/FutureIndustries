@@ -1,7 +1,9 @@
 # Future Industries
 
+![image](https://github.com/user-attachments/assets/212d313c-1f35-4c8d-8869-f33a477d3b35)
 
 
+![image](https://github.com/user-attachments/assets/0a4db3d3-5fd2-40ea-aef1-043523f39797)
 
 ## The Potential for Innovation in Cambodia and Southeast Asia
 
