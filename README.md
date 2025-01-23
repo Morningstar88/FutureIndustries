@@ -135,12 +135,16 @@ To tap into this market, it's essential to understand what subjects people are i
 English Language Learning: With the increasing importance of English in global business and communication, many Cambodians are eager to improve their English skills.
 
 Computer and IT Skills: As technology continues to advance, there's a high demand for education in computer literacy, coding, and IT skills.
+![image](https://github.com/user-attachments/assets/9653da71-82c8-4db8-af1b-4d00dfcf425b)
 
 Business and Entrepreneurship: Many Cambodians are interested in learning how to start and manage their own businesses, which can drive economic growth.
+![image](https://github.com/user-attachments/assets/80903652-784f-4c45-af35-4c6fd1ded083)
 
 Health and Wellness: Education on health, nutrition, and wellness is crucial for improving the overall quality of life.
+![image](https://github.com/user-attachments/assets/b4021bba-d2fe-400d-bb7a-394da0f08ec6)
 
 Technical and Vocational Training: Practical skills in trades such as carpentry, mechanics, and electrical work are highly valued.
+![image](https://github.com/user-attachments/assets/a745c2a2-6531-4c71-b721-eeecca8e91ba)
 
 ## Conclusion
 Low-cost education has the potential to transform lives and communities in Cambodia. By creating and selling educational videos on popular subjects, you can make a significant impact while also generating income. It's a win-win situation for both educators and learners.
@@ -150,6 +154,9 @@ In the dimly lit corners of future urban sprawls, a fusion of ancient craft and 
 
 ## The Rise of Locally distilled Whiskey
 As the world becomes increasingly intrigued by craft spirits, Cambodia is carving out its niche in the whiskey market. Local distilleries are harnessing the bountiful resources of the land to produce high-quality whiskey that reflects the essence of the region. With notes that capture the aromatic rice paddies and tropical climate, Cambodian whiskey offers a taste of the exotic and the familiar.
+
+![image](https://github.com/user-attachments/assets/74ab8760-5119-4d01-bbb0-8bcb033ce0f1)
+
 
 ## Collaboration with Bali
 Bali, known for its pristine beaches and vibrant culture, also boasts a tradition of distilling high-quality arak. This distilled spirit, made from fermented coconut sap or rice, is a testament to Balinese craftsmanship. Recognizing the potential for shared knowledge and growth, Cambodian whiskey makers have initiated a collaboration with Balinese distillers.
