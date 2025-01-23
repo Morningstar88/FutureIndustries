@@ -1,5 +1,6 @@
 # Future Industries
 
+
 ## The Potential for Innovation in Cambodia and Southeast Asia
 
 ![image](https://github.com/user-attachments/assets/829583cb-22c2-4054-ad4a-1f4745f15c20)
@@ -36,7 +37,9 @@ He also suggests that by carefully managing and protecting these resources, it c
 
 Duckweed is an aquatic plant that grows rapidly and can be harvested for many different uses, such as animal feed, fertilizer, and even as a biofuel.
 
-Jake Mackenzie believes that the high levels of nutrients in the water of the lakes in the region make it ideal for growing duckweed on a large scale, and he proposes the establishment of duckweed farms to take advantage of this.
+
+
+The high levels of nutrients in the water of the lakes in the region make it ideal for growing duckweed on a large scale, and he proposes the establishment of duckweed farms to take advantage of this.
 
 ## Homebrewing, Draagon fruit wine, manfo wine, arak high quality liquor...
 
@@ -44,6 +47,10 @@ Jake Mackenzie believes that the high levels of nutrients in the water of the la
 
 
 # Software Design Patterns of the Future.
+
+![Uploading pexels-photo-13814644PIZZA.jpeg…]()
+
+
 
 # Schools of the Future.
 
