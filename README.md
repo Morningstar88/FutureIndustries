@@ -1,3 +1,7 @@
+PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
+PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
+PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
+
 # Future Industries
 
 
@@ -14,7 +18,11 @@ I compiled a massive list of the best industries, from ultra-simple like baking 
 
 https://images.pexels.com/photos/30059400/pexels-photo-30059400/free-photo-of-elegant-cocktail-with-neon-lights-background.jpeg?auto=compress&cs=tinysrgb&w=600
 
-I made sure to cover a spectrum of industries
+I made sure to cover a spectrum of potential businesses. Remember, these are noy pie-in-the-sky ideas. they are real industries, that exist now, and people are making real cash.
+
+All of these industries make the world simpler, cleaner and more beautiful.
+
+We should be building villages like in Lord of The Rings or Avatar.
 
 # New Concepts in Industries
 
@@ -46,6 +54,9 @@ Flutter-food-delivery-app-ui: This project on GitHub provides a food ordering an
 **could you explain the benefits to a cambodian restaurant
 Absolutely! Here are some benefits that a Cambodian restaurant could gain from using an open-source food delivery app like Flutter-food-delivery-app-ui:
 
+PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
+PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
+PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
 
 ![image](https://github.com/user-attachments/assets/03eaec2e-26e3-4ea0-a780-028423f2757b)
 
@@ -76,6 +87,9 @@ No, there are **no fees** associated with using the Flutter-food-delivery-app-ui
 
 Would you like more information on how to get started with this project?
 
+PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
+PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
+PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
 
 good, are there any interesting food delivery schemes in the world?
 Yes, there are several interesting food delivery schemes around the world that are making waves! Here are a few notable ones:
