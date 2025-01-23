@@ -70,6 +70,8 @@ Chamomile does grow in Southeast Asia, particularly in Vietnam, China, and Japan
 
 The chamomile plant prefers to grow in full sunlight and well-drained soil, and it produces small, white or yellow flowers that bloom in the summer. In Vietnam, chamomile is often grown as a medicinal herb and is used in teas and herbal remedies.
 
+![pexels-photo-4963923BLUEBERRY JAM](https://github.com/user-attachments/assets/a45e8c7d-5789-45b6-a741-e909546e5983)
+
 
 # The Global Jam Market
 
@@ -85,6 +87,7 @@ Cambodia and its Southeast Asian neighbors are home to a variety of exotic fruit
 
 ## Economic Benefits
 Cost-Effectiveness: Producing jams locally could drastically reduce costs. While imported French jams sell for $5-6, locally produced dragon fruit or green mango jams could be priced around $1, making them more accessible to the general population.
+![pexels-photo-6588620MARMALADE](https://github.com/user-attachments/assets/7bff23bb-adf6-4e38-9949-42746dedf96e)
 
 ## Job Creation: 
 
@@ -100,6 +103,7 @@ The future of industries in Cambodia and Southeast Asia lies in leveraging uniqu
 # Low-Cost Education: Unlocking Potential in Cambodia
 ## Introduction
 Education is a powerful tool for personal and economic growth. In Cambodia, there's a growing interest in affordable education solutions that can provide valuable skills and knowledge without breaking the bank. One innovative approach is the creation and sale of educational videos, which can be a lucrative venture if marketed effectively.
+![pexels-photo-5487071planingplant](https://github.com/user-attachments/assets/b0bcd72e-8937-407a-97f5-b6e915771e38)
 
 ## The Business Potential
 Imagine selling 10,000 copies of an educational video for 50 cents each. That's a revenue of $5,000! This model not only makes education accessible but also offers a viable business opportunity for content creators and educators.
