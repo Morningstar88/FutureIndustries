@@ -1,6 +1,12 @@
 # Future Industries
 
 
+
+![raspberry-pi-computer-linux-163073RASPBERRY PI](https://github.com/user-attachments/assets/5baa75c0-4b67-4389-9f92-d314514c1e32)
+
+
+![tutankhamun-death-mask-pharaonic-egypt](https://github.com/user-attachments/assets/556d15e7-a4c2-4b1f-a74c-a8ff144fe479)
+
 ## The Potential for Innovation in Cambodia and Southeast Asia
 
 ![image](https://github.com/user-attachments/assets/829583cb-22c2-4054-ad4a-1f4745f15c20)
