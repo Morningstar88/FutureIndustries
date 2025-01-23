@@ -2,10 +2,6 @@
 
 
 
-![raspberry-pi-computer-linux-163073RASPBERRY PI](https://github.com/user-attachments/assets/5baa75c0-4b67-4389-9f92-d314514c1e32)
-
-
-![tutankhamun-death-mask-pharaonic-egypt](https://github.com/user-attachments/assets/556d15e7-a4c2-4b1f-a74c-a8ff144fe479)
 
 ## The Potential for Innovation in Cambodia and Southeast Asia
 
@@ -52,6 +48,7 @@ The high levels of nutrients in the water of the lakes in the region make it ide
 ## The Heavy Metal Detox Industry
 
 
+
 # Software Design Patterns of the Future.
 
 ![Uploading pexels-photo-13814644PIZZA.jpeg…]()
@@ -89,6 +86,11 @@ The chamomile plant prefers to grow in full sunlight and well-drained soil, and 
 # The Global Jam Market
 
 Jams are a beloved staple in many households worldwide, and the market for high-quality, artisanal jams has been growing rapidly. In regions like Cambodia, where French jams are sold at premium prices (around $5-6), there's a significant opportunity to create local alternatives that cater to both local and international markets.
+
+![raspberry-pi-computer-linux-163073RASPBERRY PI](https://github.com/user-attachments/assets/5baa75c0-4b67-4389-9f92-d314514c1e32)
+
+
+![tutankhamun-death-mask-pharaonic-egypt](https://github.com/user-attachments/assets/556d15e7-a4c2-4b1f-a74c-a8ff144fe479)
 
 Safety Nets
 Throughout this book, I've made it a priority to cover businesses that you can set up with minimal investment. One such example is creating and selling educational videos.
