@@ -96,6 +96,12 @@ Cambodia and its Southeast Asian neighbors are home to a variety of exotic fruit
 Cost-Effectiveness: Producing jams locally could drastically reduce costs. While imported French jams sell for $5-6, locally produced dragon fruit or green mango jams could be priced around $1, making them more accessible to the general population.
 ![pexels-photo-6588620MARMALADE](https://github.com/user-attachments/assets/7bff23bb-adf6-4e38-9949-42746dedf96e)
 
+
+![pexels-photo-7299989HYDROPONICSWOMAN](https://github.com/user-attachments/assets/e79f8308-95e5-4553-86f1-7223d0fe778f)
+
+
+
+
 ## Job Creation: 
 
 The establishment of jam production facilities would create jobs in farming, production, and distribution. This could have a significant impact on local economies, particularly in rural areas.
