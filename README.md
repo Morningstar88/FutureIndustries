@@ -14,7 +14,6 @@ Southeast Asia, particularly Cambodia, is a region rich in culture, history, and
 
 I compiled a massive list of the best industries, from ultra-simple like baking bread and jam-making, to rewilding and river-cleaning, to planting forests, to the rosemary and lavender industry, home herb gardens, language and massage, low cost technology education, low cost ar, duckweed, caffiene free energy drinks, lavender, raspberry pi and friends, smartphone movie makin, calcium hypochlorite and chlorine dioxide. Vitamin C, health kits, the homemade instrument industry.
 
-![image[(https://images.pexels.com/photos/30059400/pexels-photo-30059400/free-photo-of-elegant-cocktail-with-neon-lights-background.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 I made sure to cover a spectrum of potential businesses. Remember, these are noy pie-in-the-sky ideas. they are real industries, that exist now, and people are making real cash.
 
@@ -147,6 +146,9 @@ These schemes highlight the global growth and innovation in the food delivery in
 These projects showcase how open-source technology can create innovative and efficient solutions in the food delivery industry. Are you interested in any specific aspect of these projects?
 
 resource conversion companies:  resource innovation
+
+![image[(https://images.pexels.com/photos/30059400/pexels-photo-30059400/free-photo-of-elegant-cocktail-with-neon-lights-background.jpeg?auto=compress&cs=tinysrgb&w=600)
+
 
 We need more celebrity engineers...
 
