@@ -36,7 +36,8 @@ Low Cost Technology Education
 
 
 
-## Farming
+
+
 
 # FARMING
 
@@ -49,11 +50,25 @@ succulents and cacti, which are well-adapted to dry climates and require minimal
 drought-tolerant plants, such as lavender, daisies, and geraniums, which can survive with minimal watering.
 drought-tolerant vegetables and fruits, such as tomatoes and melons, which can survive in dry climates.
 
-Lavender is a versatile plant and has a variety of uses. Here are some of its uses:
-- It can be used as an essential oil for aromatherapy and as a natural fragrance in products.
+Yes, lavender is grown in Southeast Asia, including Cambodia. The price of lavender oil can vary depending on quality and market conditions. As of January 2025, the price of lavender oil in Cambodia ranges from $16.15 to $38.01 per kilogram.
+
+Lavender is cultivated in various regions of Cambodia, particularly in areas with suitable climates. The ideal climate for lavender cultivation includes:
+
+Full Sun: Lavender thrives in locations that receive at least 6-8 hours of direct sunlight daily.
+
+Warm and Moderately Dry Climate: Lavender prefers warm temperatures and moderate humidity. It does well in regions with mild winters and sunny summers2.
+
+Well-Drained Soil: Lavender grows best in light, sandy soils with good drainage. It can tolerate poor or eroded soils but should not be waterlogged3.
+
+Altitude: Lavender can also thrive at higher altitudes, up to 1500 meters (5000 feet).
+
+In Cambodia, lavender is often grown in hilly areas and regions with these climatic conditions. If you're considering growing lavender, look for sunny spots with good drainage and ensure the soil is well-prepared.
+
+### Lavender is a versatile plant and has a variety of uses. Here are some of its uses:
+
+- Essential oil for aromatherapy and as a natural fragrance in products.
 - The flowers can be dried and used in potpourri and sachets for a pleasant scent.
 - The dried flowers can also be used in food and baking to add flavor.
-
 - Lavender oil can also be used in soap, lotions, and other skincare products for its calming and anti-inflammatory properties.
 
 To start growing lavender in your garden, start by selecting a suitable location with full sun and well-drained soil. Lavender prefers alkaline soil, so you may want to consider adding lime to your soil to help with drainage.
@@ -62,7 +77,9 @@ When choosing lavender plants, select ones that are well-developed and look heal
 
 Lavender generally takes about two to three years to mature. During the first growing season, the plant will establish its roots and grow foliage. After that, the plant will require minimal care and will start to flower. Once the plant flowers, you can start harvesting the flowers for essential oils and other uses.
 
-## Rosemary
+
+
+# Rosemary
 
 Yes, rosemary can grow in the dry climate of Siem Reap, Cambodia. However, it requires a little bit more care and attention to thrive.
 Rosemary prefers well-drained soil and full sun. Make sure to water the plant deeply but infrequently, allowing the soil to dry out slightly between waterings. 
