@@ -111,6 +111,16 @@ Cancer Risk: While there is no definitive proof, some research has raised concer
 
 It's important to be mindful of the sources of aluminum in your diet and to consume it in moderation. If you have any specific health concerns, it's always a good idea to consult with a healthcare professional.
 
+It's truly amusing how the upper classes once viewed nutritionally deprived white flour as the epitome of health and status. In their quest for purity and refinement, they ended up stripping away the very nutrients that made bread wholesome. All the while, the "common folk" were munching on hearty, whole-grain loaves packed with vitamins and fiber.
+
+Patting themselves on the back for consuming bread that was essentially the Victorian equivalent of modern-day junk food. It’s like proudly boasting about sipping on carbonated sugar water while sneering at those drinking freshly squeezed orange juice.
+
+The idea that whiter meant better led them to some truly idiotic culinary decisions. But hey, at least they gave us a good laugh in hindsight. 
+
+Looking at 2025, are we doing anything that we may think is stupid later... A hundred years ago, mercury wa in common use. 
+
+Will aluminium go the same way as mercury?
+
 ### Hydroponic Farming: 
 
 Hydroponic farming is being tested and implemented in Cambodia. This method involves growing plants without soil, using nutrient-rich water solutions instead3. It allows for year-round cultivation, reduces water usage, and minimizes the risk of soil-borne diseases. For example, Rosewood Phnom Penh has pioneered an indoor hydroponic garden to supply fresh vegetables and herbs for its restaurants3.
