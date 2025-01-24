@@ -1,4 +1,3 @@
-&&&&&
 
 # Future Industries
 
@@ -20,6 +19,22 @@ I made sure to cover a spectrum of potential businesses. Remember, these are noy
 All of these industries make the world simpler, cleaner and more beautiful.
 
 We should be building villages like in Lord of The Rings or Avatar.
+
+# CONTENTS
+
+Farming
+Lavender
+Rosemary
+Duckweed 
+Aquaculture
+Cambodian Whiskey
+Methanol Testing and Purification
+Aquaculture
+Duckweed
+River-cleaning
+Low Cost Technology Education
+
+
 
 ## Farming
 
