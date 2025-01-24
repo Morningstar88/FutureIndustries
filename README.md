@@ -77,7 +77,28 @@ When choosing lavender plants, select ones that are well-developed and look heal
 
 Lavender generally takes about two to three years to mature. During the first growing season, the plant will establish its roots and grow foliage. After that, the plant will require minimal care and will start to flower. Once the plant flowers, you can start harvesting the flowers for essential oils and other uses.
 
+In Cambodia, there are several innovative farming techniques being adopted to improve agricultural productivity and sustainability:
 
+### Innovative Farming Techniques:
+Nethouses: Farmers in Cambodia have started using nethouses to protect their crops from pests and extreme weather. These structures are covered with nets that allow sunlight and air to pass through while keeping insects and animals out1. This method reduces the need for chemical pesticides and helps produce higher-quality vegetables.
+
+### Hydroponic Farming: 
+
+Hydroponic farming is being tested and implemented in Cambodia. This method involves growing plants without soil, using nutrient-rich water solutions instead3. It allows for year-round cultivation, reduces water usage, and minimizes the risk of soil-borne diseases. For example, Rosewood Phnom Penh has pioneered an indoor hydroponic garden to supply fresh vegetables and herbs for its restaurants3.
+
+### Benefits of These Techniques:
+##### Increased Crop Yields: 
+Both nethouses and hydroponic systems can lead to higher crop yields by providing optimal growing conditions.
+
+##### Sustainability: 
+
+These methods reduce the need for chemical inputs and conserve water, making them more environmentally friendly.
+
+##### Economic Growth: 
+
+By adopting these innovative techniques, farmers can access premium markets and improve their income.
+
+These advancements are helping Cambodian farmers thrive and adapt to changing environmental conditions. Are you interested in learning more about how to implement these techniques?
 
 # Rosemary
 
