@@ -34,6 +34,20 @@ However, many educators and linguists recognize the practical benefits of segmen
 
 It's a nuanced topic, but the overarching aim is to enhance literacy while respecting the rich linguistic heritage of Khmer.
 
+In addition to word segmentation, there are a few other hacks that can make Khmer script easier to read for low-literate individuals:
+
+Phonetic Transcriptions: Using the International Phonetic Alphabet (IPA) to transcribe Khmer words can help learners understand pronunciation more easily. This method breaks down the sounds of the language, making it more accessible.
+
+Simplified Fonts: Designing fonts that are easier to read, with clearer distinctions between similar characters, can aid in readability. This is especially useful for digital content.
+
+Visual Aids: Incorporating images, symbols, or color coding to represent different sounds or syllables can help learners associate visual cues with phonetic sounds.
+
+Interactive Learning Tools: Apps and online platforms that provide interactive exercises, such as matching sounds to letters or practicing pronunciation, can be very effective for beginners.
+
+Audio Pronunciations: Providing audio recordings of words and sentences can help learners hear the correct pronunciation and improve their reading skills.
+
+These methods, combined with word segmentation, can make learning Khmer script more approachable and enjoyable for low-literate individuals. Do you think these hacks would be helpful for someone learning to read Khmer?
+
 # CONTENTS
 
 Farming
