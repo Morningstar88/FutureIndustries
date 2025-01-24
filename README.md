@@ -28,6 +28,12 @@ Additionally, the Intl.Segmenter browser API can be used to split Khmer words, p
 
 These innovations are great steps towards making Khmer script more accessible to everyone. Do you think these methods would be helpful for someone learning to read Khmer?
 
+Actually, some Khmer scholars do have mixed feelings about segmentation. They argue that it might oversimplify the language and compromise its traditional structure. Khmer script is naturally written without spaces between words, and introducing segmentation could be seen as altering the authenticity of the language.
+
+However, many educators and linguists recognize the practical benefits of segmentation, especially for early readers and those with low literacy. The goal is to strike a balance between preserving the integrity of the language and making it accessible to a broader audience.
+
+It's a nuanced topic, but the overarching aim is to enhance literacy while respecting the rich linguistic heritage of Khmer.
+
 # CONTENTS
 
 Farming
