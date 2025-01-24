@@ -1,6 +1,4 @@
-PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
-PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
-PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
+&&&&&
 
 # Future Industries
 
@@ -16,7 +14,7 @@ Southeast Asia, particularly Cambodia, is a region rich in culture, history, and
 
 I compiled a massive list of the best industries, from ultra-simple like baking bread and jam-making, to rewilding and river-cleaning, to planting forests, to the rosemary and lavender industry, home herb gardens, language and massage, low cost technology education, low cost ar, duckweed, caffiene free energy drinks, lavender, raspberry pi and friends, smartphone movie makin, calcium hypochlorite and chlorine dioxide. Vitamin C, health kits, the homemade instrument industry.
 
-https://images.pexels.com/photos/30059400/pexels-photo-30059400/free-photo-of-elegant-cocktail-with-neon-lights-background.jpeg?auto=compress&cs=tinysrgb&w=600
+![image[(https://images.pexels.com/photos/30059400/pexels-photo-30059400/free-photo-of-elegant-cocktail-with-neon-lights-background.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 I made sure to cover a spectrum of potential businesses. Remember, these are noy pie-in-the-sky ideas. they are real industries, that exist now, and people are making real cash.
 
@@ -34,19 +32,57 @@ Resoure transformation, waste to energy.
 - Rescource Conversion
 - Resource Innovation
 
-- ## Open Source Food Delivery Apps
+- # Open Source Food Delivery Apps
 
 https://github.com/enatega/food-delivery-singlevendor
 
-open source food delivery success stories
 There are some inspiring success stories in the realm of open-source food delivery projects! Here are a few notable examples:
 
-Enatega: This customizable food delivery application has been successfully deployed over 100 times. It allows users to set up their own order and delivery management systems1. Enatega is praised for its flexibility and ease of use.
+Enatega: Customizable food delivery, successfully deployed over 100 times. It allows users to set up their own order and delivery management systems1. Enatega is praised for its flexibility and ease of use.
 
 OpenDeli: This decentralized, open-source food delivery network empowers local restaurants and couriers to operate independently, ensuring fair treatment and lower fees. It's a great example of how open-source solutions can support local communities2.
 
 
 ![image](https://github.com/user-attachments/assets/8a9e0dfa-7e47-436d-b711-dc3f63a15384)
+
+# FARMING
+
+The lavender and germanium industry may help some housegolds. Atr the very least, you will have some beautiful plants.
+
+Despite the dry climate of Siem Reap, Cambodia, there are several plants that can thrive in such conditions.
+Some examples of plants that grow well in dry areas include:
+
+succulents and cacti, which are well-adapted to dry climates and require minimal water.
+drought-tolerant plants, such as lavender, daisies, and geraniums, which can survive with minimal watering.
+drought-tolerant vegetables and fruits, such as tomatoes and melons, which can survive in dry climates.
+
+Lavender is a versatile plant and has a variety of uses. Here are some of its uses:
+- It can be used as an essential oil for aromatherapy and as a natural fragrance in products.
+- The flowers can be dried and used in potpourri and sachets for a pleasant scent.
+- The dried flowers can also be used in food and baking to add flavor.
+- Lavender oil can also be used in soap, lotions, and other skincare products for its calming and anti-inflammatory properties.
+
+To start growing lavender in your garden, start by selecting a suitable location with full sun and well-drained soil. Lavender prefers alkaline soil, so you may want to consider adding lime to your soil to help with drainage.
+Next, prepare your soil by removing any weeds and adding organic matter such as manure or mulch to improve the fertility.
+When choosing lavender plants, select ones that are well-developed and look healthy. After selecting the plants, dig a hole slightly larger than the root ball and place the plant in it, making sure the top of the root ball is slightly above the ground.
+
+Lavender generally takes about two to three years to mature. During the first growing season, the plant will establish its roots and grow foliage. After that, the plant will require minimal care and will start to flower. Once the plant flowers, you can start harvesting the flowers for essential oils and other uses.
+
+## Rosemary
+
+Yes, rosemary can grow in the dry climate of Siem Reap, Cambodia. However, it requires a little bit more care and attention to thrive.
+Rosemary prefers well-drained soil and full sun. Make sure to water the plant deeply but infrequently, allowing the soil to dry out slightly between waterings. 
+You will also need to provide protection from strong winds, which can damage the plant.
+
+*
+
+Italy is the country that grows and consumes the most rosemary. It is widely used in Italian cuisine, particularly in dishes like roasted meats, veggies, soups and stews, and bread.
+It is also commonly used in Greek, Portuguese, Spanish, French, and other Mediterranean cuisines as well.
+
+Rosemary oil has a number of applications. Here are a few examples:
+- It can be used in aromatherapy to promote relaxation and reduce stress.
+- It can be used in skincare products such as lotions, creams, and balms to help improve skin tone, reduce acne, and reduce puffiness around the eyes.
+- It can also be used in hair care products such as shampoos, conditioners, and scalp treatments to promote hair growth and improve hair health.
 
 
 Flutter-food-delivery-app-ui: This project on GitHub provides a food ordering and delivery application designed based on real-life scenarios. It's been widely adopted and contributed to by developers around the world3.
