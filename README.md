@@ -18,6 +18,16 @@ All of these industries make the world simpler, cleaner and more beautiful.
 
 We should be building villages like in Lord of The Rings or Avatar.
 
+# Segmented Khmer
+
+Yes, there have been efforts to make Khmer script more accessible for low-literate readers, including splitting words for easier readability. One notable approach is the use of Khmer word segmentation tools. These tools help break down sentences into individual words, making it easier for beginners to read and understand1.
+
+For example, there's a GitHub project called KhmerWordSegmentation that aims to separate Khmer words from sentences. This can be particularly helpful for those who are just starting to learn the script1.
+
+Additionally, the Intl.Segmenter browser API can be used to split Khmer words, providing a more readable format. This method uses a dictionary of Khmer words to accurately segment text, although it's not 100% perfect2.
+
+These innovations are great steps towards making Khmer script more accessible to everyone. Do you think these methods would be helpful for someone learning to read Khmer?
+
 # CONTENTS
 
 Farming
