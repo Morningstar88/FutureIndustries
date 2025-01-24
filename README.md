@@ -9,6 +9,12 @@
 
 https://aussiehomebrewer.com/threads/galangal-beer.84841/
 
+Cambodia produces tons of pepper, but I haven't seen any pepper bread anywhere, or many pepper products.
+
+Galangal is a fairly rare spice in the west... here someone makes galangal beer.
+
+https://aussiehomebrewer.com/threads/galangal-beer.84841/
+
 ### Introduction
 
 Southeast Asia, particularly Cambodia, is a region rich in culture, history, and untapped economic potential. We look towards future industries that can drive growth and development.
