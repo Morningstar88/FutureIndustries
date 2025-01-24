@@ -221,6 +221,49 @@ Duckweed is an aquatic plant that grows rapidly and can be harvested for many di
 
 The high levels of nutrients in the water of the lakes in the region make it ideal for growing duckweed on a large scale, and he proposes the establishment of duckweed farms to take advantage of this.
 
+Here's a simple guide to setting up a low-cost hydroponic system for under $100:
+
+Materials Needed:
+Plastic Storage Container: A 5-gallon (20-liter) container will serve as your reservoir.
+
+Water Pump: A small submersible water pump (around $10-$15) to circulate nutrient solution.
+
+Air Pump and Air Stones: To oxygenate the water (around $10-$15).
+
+Hydroponic Net Pots: Small pots to hold your plants (around $5-$10).
+
+Growing Medium: Coconut coir or perlite (around $5-$10).
+
+Nutrient Solution: Hydroponic nutrients (around $10-$15).
+
+LED Grow Lights: Optional if you don't have enough natural light (around $20-$30).
+
+Tubing and Connectors: To connect the water pump and air pump (around $5-$10).
+
+Timer: To automate the lighting and water pump cycles (around $5-$10).
+
+Steps to Set Up:
+Prepare the Container: Clean the plastic container thoroughly.
+
+Install the Water Pump: Place the submersible water pump in the container and connect it to tubing.
+
+Set Up the Air Pump: Place the air pump outside the container and connect it to air stones inside the container.
+
+Add Growing Medium: Fill the net pots with coconut coir or perlite.
+
+Plant Your Seeds: Place the seeds or seedlings in the net pots.
+
+Add Nutrient Solution: Fill the container with water and add the hydroponic nutrient solution.
+
+Connect the Tubing: Ensure the tubing is properly connected to the water pump and air pump.
+
+Set Up the Timer: Program the timer to control the lighting and water pump cycles.
+
+Monitor and Maintain: Regularly check the pH and nutrient levels, and ensure the plants are receiving adequate light and oxygen.
+
+This setup should cost around $80-$90, depending on the prices of the materials you find. It's a great way to start experimenting with hydroponic farming on a budget!
+
+Would you like more detailed instructions on any specific step?
 
 # New Concepts in Industries
 
