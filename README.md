@@ -1,15 +1,6 @@
 
 # Future Industries
 
-
-![image](https://github.com/user-attachments/assets/43c907a2-ec49-496c-86e6-d45ca6a0781b)
-
-![image](https://github.com/user-attachments/assets/212d313c-1f35-4c8d-8869-f33a477d3b35)
-
-
-
-![image](https://github.com/user-attachments/assets/0a4db3d3-5fd2-40ea-aef1-043523f39797)
-
 ## The Potential for Innovation in Cambodia and Southeast Asia
 
 ![image](https://github.com/user-attachments/assets/829583cb-22c2-4054-ad4a-1f4745f15c20)
@@ -97,6 +88,12 @@ Nethouses: Farmers in Cambodia have started using nethouses to protect their cro
 
 ### History of Aluminum in Bread
 The use of aluminum in bread dates back to the Victorian era in England. During this time, bakers added aluminum compounds, such as potassium aluminum sulfate (alum), to bread dough to make the bread whiter and heavier. This practice was popular because white bread was associated with the upper class and was considered more desirable1. Unfortunately, alum is toxic when consumed in large quantities and can cause digestive issues and diarrhea.
+
+
+![image](https://github.com/user-attachments/assets/43c907a2-ec49-496c-86e6-d45ca6a0781b)
+
+![image](https://github.com/user-attachments/assets/212d313c-1f35-4c8d-8869-f33a477d3b35)
+
 
 ### Dangers of Aluminum in Bread
 While aluminum is naturally present in many foods and is generally considered safe in small amounts, excessive consumption can pose health risks. Here are some potential dangers:
@@ -400,7 +397,10 @@ We need more celebrity engineers...
 
 ## Homebrewing, Draagon fruit wine, manfo wine, arak high quality liquor...
 
-## The Heavy Metal Detox Industry
+## The Low Cost Heavy Metal Detox Industry
+
+![image](https://github.com/user-attachments/assets/0a4db3d3-5fd2-40ea-aef1-043523f39797)
+
 
 
 
