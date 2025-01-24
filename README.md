@@ -21,28 +21,7 @@ All of these industries make the world simpler, cleaner and more beautiful.
 
 We should be building villages like in Lord of The Rings or Avatar.
 
-# New Concepts in Industries
-
-Resoure transformation, waste to energy.
-
-- WASTE-TO-ENERGY
-- NEW WASTE TO RESOURCE SOLUTIONS
-- WASTE-TO-RESOURCE
-- Rescource Conversion
-- Resource Innovation
-
-- # Open Source Food Delivery Apps
-
-https://github.com/enatega/food-delivery-singlevendor
-
-There are some inspiring success stories in the realm of open-source food delivery projects! Here are a few notable examples:
-
-Enatega: Customizable food delivery, successfully deployed over 100 times. It allows users to set up their own order and delivery management systems1. Enatega is praised for its flexibility and ease of use.
-
-OpenDeli: This decentralized, open-source food delivery network empowers local restaurants and couriers to operate independently, ensuring fair treatment and lower fees. It's a great example of how open-source solutions can support local communities2.
-
-
-![image](https://github.com/user-attachments/assets/8a9e0dfa-7e47-436d-b711-dc3f63a15384)
+## Farming
 
 # FARMING
 
@@ -59,6 +38,7 @@ Lavender is a versatile plant and has a variety of uses. Here are some of its us
 - It can be used as an essential oil for aromatherapy and as a natural fragrance in products.
 - The flowers can be dried and used in potpourri and sachets for a pleasant scent.
 - The dried flowers can also be used in food and baking to add flavor.
+
 - Lavender oil can also be used in soap, lotions, and other skincare products for its calming and anti-inflammatory properties.
 
 To start growing lavender in your garden, start by selecting a suitable location with full sun and well-drained soil. Lavender prefers alkaline soil, so you may want to consider adding lime to your soil to help with drainage.
@@ -82,6 +62,134 @@ Rosemary oil has a number of applications. Here are a few examples:
 - It can be used in aromatherapy to promote relaxation and reduce stress.
 - It can be used in skincare products such as lotions, creams, and balms to help improve skin tone, reduce acne, and reduce puffiness around the eyes.
 - It can also be used in hair care products such as shampoos, conditioners, and scalp treatments to promote hair growth and improve hair health.
+
+# The Cambodian Whiskey Industry
+
+### High-Quality Balinese Arak
+- **Ingredients**: Made from the fermented sap of coconut or palm trees.
+- **Alcohol Content**: Typically ranges from 40% to 50%.
+- **Production Process**: The sap is collected, fermented for a few days, and then distilled. High-quality arak is carefully filtered to remove impurities, including methanol.
+- **Taste**: Has a strong, distinct flavor and is often enjoyed neat or in cocktails.
+- **Safety**: When properly made, it is safe to drink, though it should be consumed in moderation due to its high alcohol content.
+
+### Methanol Moonshine
+- **Ingredients**: Often made from various sources, including fruits, grains, or even industrial alcohol.
+- **Alcohol Content**: Can vary widely, but it often contains a significant amount of methanol, which is toxic.
+- **Production Process**: The fermentation and distillation processes are usually less controlled, leading to higher chances of methanol contamination.
+- **Taste**: Can be unpredictable and may have a harsh, unpleasant taste due to impurities.
+- **Safety**: Extremely dangerous to consume due to the presence of methanol, which can cause blindness or even death.
+
+In summary, high-quality Balinese arak is a traditional, carefully crafted spirit with a rich cultural heritage, while methanol moonshine is an unregulated, potentially hazardous drink. Always ensure you're getting your arak from a reputable source to avoid any risks.
+
+Does this help clarify the differences for you?
+
+good.. how would you test for methanol? how would you set up a still for 100usd or less
+Testing for Methanol
+Testing for methanol in alcoholic beverages can be done using a few methods:
+
+Smell: Methanol has a strong, unpleasant odor. If the beverage has a chemical or sharp smell, it might contain methanol1.
+
+Flame Test: When you light a sample of the beverage on fire, methanol burns with a yellow flame, whereas ethanol burns with a blue flame.
+
+Chemical Test: You can use a sodium dichromate solution mixed with sulfuric acid. Add a few drops of this mixture to a sample of the beverage and waft the air towards your nose1. If it has a strong, acrid smell, it might contain methanol.
+
+Home Testing Kits: There are methanol test kits available that can detect the presence of methanol in alcoholic beverages.
+
+Setting Up a Still for $100 or Less
+Building a still on a budget can be challenging, but it's possible with some creativity and resourcefulness. Here's a basic guide:
+
+Materials: You'll need a stainless steel container (like a pressure cooker pot), copper tubing for the condenser, a thermometer, and a water source for cooling.
+
+Assembly: Connect the copper tubing to the container, ensuring a tight seal. The tubing should lead to a cooling system (like a coil submerged in cold water) to condense the vapor back into liquid3.
+
+Safety: Ensure proper ventilation and use caution when handling hot liquids and flammable materials.
+
+Cost: Look for second-hand or discounted materials to stay within your budget. You might find stainless steel containers and copper tubing at lower prices if you shop around.
+
+Would you like more detailed instructions or tips on any specific part of the process?
+
+
+No worries at all! Methanol can be accidentally produced during several processes. Here are some key reasons:
+
+### Accidental Methanol Production:
+
+1. **Improper Distillation**: During the distillation process, if the temperature isn't correctly controlled, methanol can be produced from the fermentation of pectin, a natural substance found in many fruits. This often happens in poorly managed or homemade distillation setups.
+
+2. **Byproduct in Fermentation**: Methanol can be a byproduct of the natural fermentation process of certain types of plant materials, especially those with high pectin content such as wood, fruits, and vegetables.
+
+3. **Industrial Processes**: In the chemical industry, methanol can accidentally be formed during the production of other chemicals if the processes are not adequately managed. It can also be present as a contaminant.
+
+4. **Incomplete Fermentation**: When fermentation does not fully convert all sugars to ethanol, methanol can be produced, especially in the presence of certain bacteria or yeast strains that favor methanol production.
+
+### Why Methanol is Dangerous:
+
+Methanol is toxic and can cause serious health issues, including blindness and even death, if ingested. That's why it's crucial to ensure any alcoholic beverages, especially home-distilled ones, are free of methanol.
+
+### Safety Tips:
+
+- Always use proper distillation equipment with accurate temperature control.
+- Use high-quality ingredients to minimize impurities.
+- Test the final product for methanol content using reliable methods or kits.
+
+By following these precautions, you can significantly reduce the risk of methanol contamination in your beverages.
+
+Does this help clarify things for you?
+
+# River Cleaning
+
+There are several innovative and cost-effective methods for cleaning rivers that have gained attention recently:
+
+Trash Wheels: These are floating devices equipped with conveyor belts that capture floating debris in rivers. They are powered by the river's current and solar panels, making them energy-efficient and low-cost1.
+
+Bioremediation: This method uses microorganisms to break down pollutants in the water. It's environmentally friendly and can be used to treat organic contaminants like oil and chemicals2.
+
+Phytoremediation: This involves using aquatic plants to absorb and accumulate contaminants from the water. It's a natural and cost-effective way to clean up polluted rivers2.
+
+Moving Bed Biofilm Reactor (MBBR): This system uses small plastic carriers that provide a surface for biofilm growth. The biofilm breaks down organic matter in the water, making it an effective and low-cost treatment method2.
+
+Integrated Fixed Activated Sludge (IFAS): This method combines conventional activated sludge with biofilm reactors to enhance the treatment process. It's efficient and can be implemented at a relatively low cost.
+
+Unmanned River Cleaning Bots: These are automated devices that can navigate rivers and remove trash and other pollutants. They are efficient and reduce the need for manual labor.
+
+These methods are not only effective but also sustainable and affordable, making them great options for cleaning up rivers around the world. Do any of these methods stand out to you?
+
+
+# Aquaculture and Duckweed
+
+forests and rivers are the backbone of the Siem Reap economy because they provide essential resources for the local communities, such as timber, water, and habitat for a variety of plants and animals. These natural resources can be sustainably managed and harvested to support eco-tourism, agriculture, and other industries, creating a strong foundation for the local economy.
+
+He also suggests that by carefully managing and protecting these resources, it can help preserve the environment and wildlife, creating a harmonious balance between human development and the environment.
+
+Duckweed is an aquatic plant that grows rapidly and can be harvested for many different uses, such as animal feed, fertilizer, and even as a biofuel.
+
+
+
+The high levels of nutrients in the water of the lakes in the region make it ideal for growing duckweed on a large scale, and he proposes the establishment of duckweed farms to take advantage of this.
+
+
+# New Concepts in Industries
+
+Resoure transformation, waste to energy.
+
+- WASTE-TO-ENERGY
+- NEW WASTE TO RESOURCE SOLUTIONS
+- WASTE-TO-RESOURCE
+- Rescource Conversion
+- Resource Innovation
+
+- # Open Source Food Delivery Apps
+
+https://github.com/enatega/food-delivery-singlevendor
+
+There are some inspiring success stories in the realm of open-source food delivery projects! Here are a few notable examples:
+
+Enatega: Customizable food delivery, successfully deployed over 100 times. It allows users to set up their own order and delivery management systems1. Enatega is praised for its flexibility and ease of use.
+
+OpenDeli: This decentralized, open-source food delivery network empowers local restaurants and couriers to operate independently, ensuring fair treatment and lower fees. It's a great example of how open-source solutions can support local communities2.
+
+
+![image](https://github.com/user-attachments/assets/8a9e0dfa-7e47-436d-b711-dc3f63a15384)
+
 
 
 Flutter-food-delivery-app-ui: This project on GitHub provides a food ordering and delivery application designed based on real-life scenarios. It's been widely adopted and contributed to by developers around the world3.
@@ -154,110 +262,11 @@ We need more celebrity engineers...
 
 ![image](https://github.com/user-attachments/assets/212d313c-1f35-4c8d-8869-f33a477d3b35)
 
-Great question! Let's break it down:
 
-### High-Quality Balinese Arak
-- **Ingredients**: Made from the fermented sap of coconut or palm trees.
-- **Alcohol Content**: Typically ranges from 40% to 50%.
-- **Production Process**: The sap is collected, fermented for a few days, and then distilled. High-quality arak is carefully filtered to remove impurities, including methanol.
-- **Taste**: Has a strong, distinct flavor and is often enjoyed neat or in cocktails.
-- **Safety**: When properly made, it is safe to drink, though it should be consumed in moderation due to its high alcohol content.
-
-### Methanol Moonshine
-- **Ingredients**: Often made from various sources, including fruits, grains, or even industrial alcohol.
-- **Alcohol Content**: Can vary widely, but it often contains a significant amount of methanol, which is toxic.
-- **Production Process**: The fermentation and distillation processes are usually less controlled, leading to higher chances of methanol contamination.
-- **Taste**: Can be unpredictable and may have a harsh, unpleasant taste due to impurities.
-- **Safety**: Extremely dangerous to consume due to the presence of methanol, which can cause blindness or even death.
-
-In summary, high-quality Balinese arak is a traditional, carefully crafted spirit with a rich cultural heritage, while methanol moonshine is an unregulated, potentially hazardous drink. Always ensure you're getting your arak from a reputable source to avoid any risks.
-
-Does this help clarify the differences for you?
-
-good.. how would you test for methanol? how would you set up a still for 100usd or less
-Testing for Methanol
-Testing for methanol in alcoholic beverages can be done using a few methods:
-
-Smell: Methanol has a strong, unpleasant odor. If the beverage has a chemical or sharp smell, it might contain methanol1.
-
-Flame Test: When you light a sample of the beverage on fire, methanol burns with a yellow flame, whereas ethanol burns with a blue flame.
-
-Chemical Test: You can use a sodium dichromate solution mixed with sulfuric acid. Add a few drops of this mixture to a sample of the beverage and waft the air towards your nose1. If it has a strong, acrid smell, it might contain methanol.
-
-Home Testing Kits: There are methanol test kits available that can detect the presence of methanol in alcoholic beverages.
-
-Setting Up a Still for $100 or Less
-Building a still on a budget can be challenging, but it's possible with some creativity and resourcefulness. Here's a basic guide:
-
-Materials: You'll need a stainless steel container (like a pressure cooker pot), copper tubing for the condenser, a thermometer, and a water source for cooling.
-
-Assembly: Connect the copper tubing to the container, ensuring a tight seal. The tubing should lead to a cooling system (like a coil submerged in cold water) to condense the vapor back into liquid3.
-
-Safety: Ensure proper ventilation and use caution when handling hot liquids and flammable materials.
-
-Cost: Look for second-hand or discounted materials to stay within your budget. You might find stainless steel containers and copper tubing at lower prices if you shop around.
-
-Would you like more detailed instructions or tips on any specific part of the process?
-
-
-No worries at all! Methanol can be accidentally produced during several processes. Here are some key reasons:
-
-### Accidental Methanol Production:
-
-1. **Improper Distillation**: During the distillation process, if the temperature isn't correctly controlled, methanol can be produced from the fermentation of pectin, a natural substance found in many fruits. This often happens in poorly managed or homemade distillation setups.
-
-2. **Byproduct in Fermentation**: Methanol can be a byproduct of the natural fermentation process of certain types of plant materials, especially those with high pectin content such as wood, fruits, and vegetables.
-
-3. **Industrial Processes**: In the chemical industry, methanol can accidentally be formed during the production of other chemicals if the processes are not adequately managed. It can also be present as a contaminant.
-
-4. **Incomplete Fermentation**: When fermentation does not fully convert all sugars to ethanol, methanol can be produced, especially in the presence of certain bacteria or yeast strains that favor methanol production.
-
-### Why Methanol is Dangerous:
-
-Methanol is toxic and can cause serious health issues, including blindness and even death, if ingested. That's why it's crucial to ensure any alcoholic beverages, especially home-distilled ones, are free of methanol.
-
-### Safety Tips:
-
-- Always use proper distillation equipment with accurate temperature control.
-- Use high-quality ingredients to minimize impurities.
-- Test the final product for methanol content using reliable methods or kits.
-
-By following these precautions, you can significantly reduce the risk of methanol contamination in your beverages.
-
-Does this help clarify things for you?
 
 ![image](https://github.com/user-attachments/assets/0a4db3d3-5fd2-40ea-aef1-043523f39797)
 
-# River Cleaning
 
-There are several innovative and cost-effective methods for cleaning rivers that have gained attention recently:
-
-Trash Wheels: These are floating devices equipped with conveyor belts that capture floating debris in rivers. They are powered by the river's current and solar panels, making them energy-efficient and low-cost1.
-
-Bioremediation: This method uses microorganisms to break down pollutants in the water. It's environmentally friendly and can be used to treat organic contaminants like oil and chemicals2.
-
-Phytoremediation: This involves using aquatic plants to absorb and accumulate contaminants from the water. It's a natural and cost-effective way to clean up polluted rivers2.
-
-Moving Bed Biofilm Reactor (MBBR): This system uses small plastic carriers that provide a surface for biofilm growth. The biofilm breaks down organic matter in the water, making it an effective and low-cost treatment method2.
-
-Integrated Fixed Activated Sludge (IFAS): This method combines conventional activated sludge with biofilm reactors to enhance the treatment process. It's efficient and can be implemented at a relatively low cost.
-
-Unmanned River Cleaning Bots: These are automated devices that can navigate rivers and remove trash and other pollutants. They are efficient and reduce the need for manual labor.
-
-These methods are not only effective but also sustainable and affordable, making them great options for cleaning up rivers around the world. Do any of these methods stand out to you?
-
-
-# Aquaculture and Duckweed
-
-forests and rivers are the backbone of the Siem Reap economy because they provide essential resources for the local communities, such as timber, water, and habitat for a variety of plants and animals. These natural resources can be sustainably managed and harvested to support eco-tourism, agriculture, and other industries, creating a strong foundation for the local economy.
-
-He also suggests that by carefully managing and protecting these resources, it can help preserve the environment and wildlife, creating a harmonious balance between human development and the environment.
-
-Duckweed is an aquatic plant that grows rapidly and can be harvested for many different uses, such as animal feed, fertilizer, and even as a biofuel.
-
-
-
-The high levels of nutrients in the water of the lakes in the region make it ideal for growing duckweed on a large scale, and he proposes the establishment of duckweed farms to take advantage of this.
 
 ## Homebrewing, Draagon fruit wine, manfo wine, arak high quality liquor...
 
