@@ -2,6 +2,13 @@
 # Future Industries
 
 
+![image](https://github.com/user-attachments/assets/43c907a2-ec49-496c-86e6-d45ca6a0781b)
+
+![image](https://github.com/user-attachments/assets/212d313c-1f35-4c8d-8869-f33a477d3b35)
+
+
+
+![image](https://github.com/user-attachments/assets/0a4db3d3-5fd2-40ea-aef1-043523f39797)
 
 ## The Potential for Innovation in Cambodia and Southeast Asia
 
@@ -81,6 +88,28 @@ In Cambodia, there are several innovative farming techniques being adopted to im
 
 ### Innovative Farming Techniques:
 Nethouses: Farmers in Cambodia have started using nethouses to protect their crops from pests and extreme weather. These structures are covered with nets that allow sunlight and air to pass through while keeping insects and animals out1. This method reduces the need for chemical pesticides and helps produce higher-quality vegetables.
+
+# Coconut, Oat, Turmeric Milks, Alternatives to Dairy
+
+![image](https://github.com/user-attachments/assets/03eaec2e-26e3-4ea0-a780-028423f2757b)
+
+# Flatbreads and Herb Breads, No Aluminium, Homemade, no Bromates
+
+### History of Aluminum in Bread
+The use of aluminum in bread dates back to the Victorian era in England. During this time, bakers added aluminum compounds, such as potassium aluminum sulfate (alum), to bread dough to make the bread whiter and heavier. This practice was popular because white bread was associated with the upper class and was considered more desirable1. Unfortunately, alum is toxic when consumed in large quantities and can cause digestive issues and diarrhea.
+
+### Dangers of Aluminum in Bread
+While aluminum is naturally present in many foods and is generally considered safe in small amounts, excessive consumption can pose health risks. Here are some potential dangers:
+
+Digestive Issues: Consuming large amounts of aluminum can cause digestive problems, including nausea, vomiting, and diarrhea.
+
+Neurological Effects: Some studies have suggested a possible link between aluminum exposure and neurological conditions such as Alzheimer's disease and Parkinson's disease, although the evidence is not conclusive.
+
+Kidney Problems: High levels of aluminum can be harmful to individuals with kidney disease, as their bodies may not be able to eliminate the metal efficiently.
+
+Cancer Risk: While there is no definitive proof, some research has raised concerns about a potential link between aluminum exposure and certain types of cancer.
+
+It's important to be mindful of the sources of aluminum in your diet and to consume it in moderation. If you have any specific health concerns, it's always a good idea to consult with a healthcare professional.
 
 ### Hydroponic Farming: 
 
@@ -299,14 +328,12 @@ PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
 PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
 PPPPPPPPPPPPPPPPPPPPPRRRRRRRRRRRRRRRRRRRROOOOOOOOOOFFFFFFFFFFFFFFFFFFFFREAD
 
-![image](https://github.com/user-attachments/assets/03eaec2e-26e3-4ea0-a780-028423f2757b)
 
 Cost Savings: Open-source software is free to use, which means you can save on the costs associated with proprietary delivery platforms. This can be especially beneficial for small and medium-sized restaurants.
 
 Customization: With open-source software, you have the flexibility to customize the app to meet your specific needs. This means you can tailor the user experience, menu display, and ordering process to better suit your restaurant's style and customer base.
 
 
-![image](https://github.com/user-attachments/assets/43c907a2-ec49-496c-86e6-d45ca6a0781b)
 
 
 Control Over Operations: Open-source platforms often allow you to maintain more control over your delivery operations. You can manage orders, update menus, and communicate directly with couriers and customers without relying on third-party services.
@@ -358,11 +385,6 @@ resource conversion companies:  resource innovation
 
 We need more celebrity engineers...
 
-![image](https://github.com/user-attachments/assets/212d313c-1f35-4c8d-8869-f33a477d3b35)
-
-
-
-![image](https://github.com/user-attachments/assets/0a4db3d3-5fd2-40ea-aef1-043523f39797)
 
 
 
