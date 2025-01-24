@@ -45,9 +45,11 @@ We should be building villages like in The Lord of The Rings or Avatar.
 
 Jam-Making: Marmalade, kumquat, mango and dragon fruit jams. Why does Cambodia import it's jam?!
 
-Farming 
+Lavender: What can Cambodia learn from the Spanish agriculture industry? 
 
-Lavender 
+Hydroponic Farming. Netting and other innovations.  
+
+
 
 Rosemary 
 
