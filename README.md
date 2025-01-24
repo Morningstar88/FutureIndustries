@@ -42,6 +42,9 @@ We should be building villages like in The Lord of The Rings or Avatar.
 <hr>
 
 # CONTENTS
+
+Jam-Making: Marmalade, kumquat, mango and dragon fruit jams. Why does Cambodia import it's jam?!
+
 Farming 
 
 Lavender 
@@ -63,8 +66,6 @@ Cost-Effectiveness: Producing jams locally could drastically reduce costs. While
 ![pexels-photo-7299989HYDROPONICSWOMAN](https://github.com/user-attachments/assets/e79f8308-95e5-4553-86f1-7223d0fe778f)
 
 
-
-
 ## Job Creation: 
 
 The establishment of jam production facilities would create jobs in farming, production, and distribution. This could have a significant impact on local economies, particularly in rural areas.
@@ -75,3 +76,34 @@ There's a growing global market for exotic fruit jams. By focusing on high-quali
 
 ## Conclusion
 The future of industries in Cambodia and Southeast Asia lies in leveraging unique local resources to create products that stand out in the global market. Jam-making, with its blend of tradition, innovation, and economic potential, represents a promising avenue for growth. By embracing local fruits and focusing on quality, Cambodia can carve out a niche in the global jam market, providing both economic benefits and a sustainable future.
+
+
+
+Yes, lavender is grown in Southeast Asia, including Cambodia. The price of lavender oil can vary depending on quality and market conditions. As of January 2025, the price of lavender oil in Cambodia ranges from $16.15 to $38.01 per kilogram.
+
+Lavender is cultivated in various regions of Cambodia, particularly in areas with suitable climates. The ideal climate for lavender cultivation includes:
+
+Full Sun: Lavender thrives in locations that receive at least 6-8 hours of direct sunlight daily.
+
+Warm and Moderately Dry Climate: Lavender prefers warm temperatures and moderate humidity. It does well in regions with mild winters and sunny summers2.
+
+Well-Drained Soil: Lavender grows best in light, sandy soils with good drainage. It can tolerate poor or eroded soils but should not be waterlogged3.
+
+Altitude: Lavender can also thrive at higher altitudes, up to 1500 meters (5000 feet).
+
+In Cambodia, lavender is often grown in hilly areas and regions with these climatic conditions. If you're considering growing lavender, look for sunny spots with good drainage and ensure the soil is well-prepared.
+
+### Lavender is a versatile plant and has a variety of uses. Here are some of its uses:
+
+- Essential oil for aromatherapy and as a natural fragrance in products.
+- The flowers can be dried and used in potpourri and sachets for a pleasant scent.
+- The dried flowers can also be used in food and baking to add flavor.
+- Lavender oil can also be used in soap, lotions, and other skincare products for its calming and anti-inflammatory properties.
+
+To start growing lavender in your garden, start by selecting a suitable location with full sun and well-drained soil. Lavender prefers alkaline soil, so you may want to consider adding lime to your soil to help with drainage.
+Next, prepare your soil by removing any weeds and adding organic matter such as manure or mulch to improve the fertility.
+When choosing lavender plants, select ones that are well-developed and look healthy. After selecting the plants, dig a hole slightly larger than the root ball and place the plant in it, making sure the top of the root ball is slightly above the ground.
+
+Lavender generally takes about two to three years to mature. During the first growing season, the plant will establish its roots and grow foliage. After that, the plant will require minimal care and will start to flower. Once the plant flowers, you can start harvesting the flowers for essential oils and other uses.
+
+In Cambodia, there are several innovative farming techniques being adopted to improve agricultural productivity and sustainability:
