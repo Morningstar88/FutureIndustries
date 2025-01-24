@@ -79,12 +79,11 @@ Rosemary oil has a number of applications. Here are a few examples:
 - **Taste**: Can be unpredictable and may have a harsh, unpleasant taste due to impurities.
 - **Safety**: Extremely dangerous to consume due to the presence of methanol, which can cause blindness or even death.
 
-In summary, high-quality Balinese arak is a traditional, carefully crafted spirit with a rich cultural heritage, while methanol moonshine is an unregulated, potentially hazardous drink. Always ensure you're getting your arak from a reputable source to avoid any risks.
+High-quality Balinese arak is a traditional, carefully crafted spirit with a rich cultural heritage, while methanol moonshine is an unregulated, potentially hazardous drink. Always ensure you're getting your arak from a reputable source to avoid any risks.
 
 Does this help clarify the differences for you?
 
-good.. how would you test for methanol? how would you set up a still for 100usd or less
-Testing for Methanol
+## Testing for Methanol
 Testing for methanol in alcoholic beverages can be done using a few methods:
 
 Smell: Methanol has a strong, unpleasant odor. If the beverage has a chemical or sharp smell, it might contain methanol1.
@@ -95,7 +94,7 @@ Chemical Test: You can use a sodium dichromate solution mixed with sulfuric acid
 
 Home Testing Kits: There are methanol test kits available that can detect the presence of methanol in alcoholic beverages.
 
-Setting Up a Still for $100 or Less
+## Setting Up a Still for $100 or Less
 Building a still on a budget can be challenging, but it's possible with some creativity and resourcefulness. Here's a basic guide:
 
 Materials: You'll need a stainless steel container (like a pressure cooker pot), copper tubing for the condenser, a thermometer, and a water source for cooling.
@@ -134,6 +133,9 @@ Methanol is toxic and can cause serious health issues, including blindness and e
 By following these precautions, you can significantly reduce the risk of methanol contamination in your beverages.
 
 Does this help clarify things for you?
+
+# Generating AI Imaginary Books 
+
 
 # River Cleaning
 
