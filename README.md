@@ -1,7 +1,7 @@
 
 # Future Industries
 
-## Innovation in Cambodia and Southeast Asia
+## Low Cost Setup Businesses in Cambodia and Southeast Asia
 
 ![image](https://github.com/user-attachments/assets/829583cb-22c2-4054-ad4a-1f4745f15c20)
 
@@ -27,13 +27,11 @@ Note: This version is released in English and Segmented Khmer. Khmer Audiobook a
 
 ### Future Business Development in Cambodia and Southeast Asia 
 
-Southeast Asia, particularly Cambodia, is rich in culture, history, and untapped economic potential. We look towards future industries that can drive growth and development. What if the key to a sustainable future lies in the wisdom of the past?  Is it possible to balance tradition and progress without losing the soul of a community? How can we balance cutting edge with returning to our roots?
+What will houses of the future look like? What will software be like? What are the best industries for a cleaner future? Could the revival of forgotten crafts and practices hold the answer to today’s environmental and economic challenges?
 
-What can we learn from the organic industries that have quietly sustained generations?
+We look towards future industries that can drive growth and development . Is it possible to balance tradition and progress without losing the soul of a community? How can we balance cutting edge with returning to our roots?
 
-Could the revival of forgotten crafts and practices hold the answer to today’s environmental and economic challenges?
-
-I compiled a massive list of the best industries, ranging from simple tasks like baking bread and making jam, to rewilding and river-cleaning, to planting forests, to the rosemary and lavender industry, home herb gardens, language and massage, low-cost technology education, low-cost AR, duckweed, caffeine-free energy drinks, lavender, Raspberry Pi and friends, smartphone movie making, calcium hypochlorite, and chlorine dioxide. Vitamin C, health kits, and the homemade instrument industry.
+A lot of these businesses can be set up for a few dollars. We cover useful skills like baking bread and making jam, to rewilding and river-cleaning, to planting forests, to the rosemary and lavender industry, home herb gardens, language and massage, low-cost technology education, low-cost AR, duckweed, caffeine-free energy drinks, lavender, Raspberry Pi and friends, smartphone movie making, calcium hypochlorite, and chlorine dioxide. Vitamin C, health kits, and the homemade instrument industry.
 
 I ensured a wide spectrum of potential businesses. Remember, these are not pie-in-the-sky ideas; they are real industries that exist now, and people are making real cash.
 
