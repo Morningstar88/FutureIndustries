@@ -53,6 +53,40 @@ We should be building villages like in The Lord of The Rings or Avatar.
 
 ### Hydroponic Farming. Netting and other innovations.  
 
+### Conversation Questions
+
+What if baking bread and making jam could be the foundation of a thriving local economy?
+
+How can rewilding and river-cleaning projects restore not just ecosystems, but entire communities?
+
+Could planting forests be the most impactful investment in our collective future?
+
+What if low-cost technology education became the great equalizer in a digital world?
+
+Could duckweed, a humble aquatic plant, revolutionize sustainable farming and nutrition?
+
+What if smartphone movie-making became a tool for storytelling and cultural preservation?
+
+Can calcium hypochlorite and chlorine dioxide industries provide safe water solutions for millions?
+
+How can Vitamin C and health kit industries address global health disparities?
+
+Could the revival of vintage industries inspire a new wave of eco-friendly entrepreneurship?
+
+How do the simplest industries—like baking bread or planting herbs—hold the power to transform lives?
+
+What if the most innovative industries of the future are those that reconnect us with nature?
+
+How can the stories of local industries inspire global change?
+
+
+
+How can the homemade instrument industry remind us of the universal language of creativity?
+
+
+What if the industries of the future are those that heal both people and the planet?
+
+
 ### Rosemary 
 
 ### Duckweed 
