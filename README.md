@@ -12,13 +12,49 @@ Note: This version is released in English and Segmented Khmer. Khmer Audiobook a
 
 <hr>
 
-# Future Industries
+## Lavender Farm Pics
 
-## Low Cost Setup Businesses in Cambodia and Southeast Asia
-
-![image](https://github.com/user-attachments/assets/829583cb-22c2-4054-ad4a-1f4745f15c20)
-
+https://youtu.be/7wQnIBYTMlo
 <hr>
+
+Sure thing! Here are some links to Pexels pictures for each of the topics you mentioned:
+
+- **Lavender Farms**: You can find a variety of beautiful lavender farm photos [here](https://www.pexels.com/search/lavender%20farm/).
+- **Raspberry Pis**: Check out these Raspberry Pi photos [here](https://www.pexels.com/search/raspberry%20pi/).
+- **Hydroponics**: Explore hydroponic photos [here](https://www.pexels.com/search/hydroponic/).
+- **Jam Making**: Discover jam making photos [here](https://www.pexels.com/search/jam%20making/).
+- **Prompt Engineering**: Browse through prompt engineering photos [here](https://www.pexels.com/search/prompt%20engineering/).
+
+Absolutely! Here's your list of topics with English, Khmer script, and Khmer phonetics:
+
+### Lavender Farms
+- **English**: Lavender Farms
+- **Khmer**: ចំការលាវ័នឌ័រ
+- **Phonetics**: Chamkar Lavan Doe
+
+### Raspberry Pis
+- **English**: Raspberry Pis
+- **Khmer**: រ៉ាសបេរី ពី
+- **Phonetics**: Rasber Pi
+
+### Hydroponics
+- **English**: Hydroponics
+- **Khmer**: ការប៉ោនិកស៊ីត្រូផូនិច
+- **Phonetics**: Karponek Citrufanik
+
+### Jam Making
+- **English**: Jam Making
+- **Khmer**: ការធ្វើសណ្តែក
+- **Phonetics**: Kar thveu san daeik
+
+### Prompt Engineering
+- **English**: Prompt Engineering
+- **Khmer**: សាងសង់កូដប្រយោល
+- **Phonetics**: Saang sang kod brayol
+
+I hope this is helpful! Let me know if you need any further assistance or if there’s anything else you’d like to explore! 😊
+
+I hope you find these helpful! If you need anything else, just let me know.
 
 Note: This version is released in English and Segmented Khmer. Khmer Audiobook available here. 
 
