@@ -11,6 +11,15 @@ Audiobook is available [here](www.InsertLinkHere.com).
 
 <hr>
 
+## Prompts... 
+
+https://en.wikipedia.org/wiki/Prompt_engineering
+
+Copypaste the following prompts into Google. 
+
+Adventure game / Phnom Penh 2040 / Dystopian / Utopia
+
+
 ## **Lavender Farms**  
 - **Video**: [Lavender Farm Tour](https://youtu.be/7wQnIBYTMlo)
 
@@ -167,8 +176,6 @@ We should create villages, like in the worlds from Lord of The Rings or Avatar.
 យើងគួរតែបង្កើតភូមិ ដូចជានៅក្នុងលោក ពី Lord of The Rings ឬ Avatar ។
 
 <hr>
-
-Absolutely! I'll add the Khmer translations next to each English sentence.
 
 ---\\]
 ![pexels-photo-6588620MARMALADE](https://github.com/user-attachments/assets/7bff23bb-adf6-4e38-9949-42746dedf96e)
