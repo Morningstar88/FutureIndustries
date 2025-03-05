@@ -1,4 +1,4 @@
-hgl# Future Industries  
+# Future Industries  
 ## Low-Cost Setup Businesses in Cambodia and Southeast Asia  
 
 ![Lavender Farm](https://github.com/user-attachments/assets/829583cb-22c2-4054-ad4a-1f4745f15c20)  
@@ -29,13 +29,11 @@ Here’s a list of future industries with **English**, **Khmer script**, and **K
 
 ---
 
-## **The Vision for Cambodia and Southeast Asia**  
+## **New Industries for Cambodia, Indonesia, and South East Asia **  
 
 ### **Khmer: សកលអភិវឌ្ឍន៍ អនាគត សកម្មភាព យុទ្ធសាស្ត្រ កម្ពុជា និងអាស៊ីអាគ្នេយ៍ រូបភាព**  
 
-Southeast Asia, particularly **Cambodia**, is a region rich in **culture**, **history**, and **economic potential**. We look toward **future industries** that can drive growth and development.  
-
-Here’s a list of the most promising industries, ranging from simple ventures like **baking bread** and **making jam** to advanced fields like **hydroponics**, **Raspberry Pi-based tech**, and **environmental restoration**:  
+Here’s a list of the most promising industries for growth and development, from simple ventures like **baking bread** and **making jam** to advanced fields like **hydroponics**, **Raspberry Pi-based tech**, and **environmental restoration**:  
 
 1. **Lavender Farms**  
 2. **Raspberry Pi Projects**  
@@ -48,14 +46,15 @@ Here’s a list of the most promising industries, ranging from simple ventures l
 9. **Health and Wellness Products** (e.g., Vitamin C, Calcium Hypochlorite, Chlorine Dioxide)  
 10. **Home-Based Industries**  
 
-These industries are not just **pie-in-the-sky ideas**—they are **real, actionable businesses** that are already thriving in some parts of the world.  
+**Real, actionable businesses that can be set up for a few dollars** that are already thriving in some parts of the world.  
 
 ---
 
-### **The Goal**  
-These industries aim to make the world a **better, cleaner, and more beautiful place**. Imagine creating villages straight out of **Lord of the Rings** or **Avatar**—where technology and nature coexist harmoniously.  
+# **Clean technology, and more beautiful place**. 
 
----
+ggImagine creating villages straight out of **Lord of the Rings** or **Avatar**—where technology and nature coexist harmoniously.  
+
+<hr>
 
 ## **Photos and Resources**  
 Here are some links to **Pexels** photos for each topic:  
@@ -66,7 +65,7 @@ Here are some links to **Pexels** photos for each topic:
 - **Jam Making**: [Jam Making Photos](https://www.pexels.com/search/jam%20making/)  
 - **Prompt Engineering**: [Prompt Engineering Photos](https://www.pexels.com/search/prompt%20engineering/)  
 
----
+<hr>
 
 ## **Conclusion**  
 The future is bright for **Cambodia** and **Southeast Asia**. By embracing these industries, we can build a world that’s not only **economically prosperous** but also **environmentally sustainable** and **culturally rich**.  
@@ -77,24 +76,18 @@ Let’s create a future that feels like a blend of **cyberpunk innovation** and 
 
 Let me know if you’d like me to refine this further or add more sections! 🚀
 
-# Future Industries
-
-## Low Cost Setup Businesses in Cambodia and Southeast Asia
-
-![image](https://github.com/user-attachments/assets/829583cb-22c2-4054-ad4a-1f4745f15c20)
-
 <hr>
 
 Note: This version is released in English and Segmented Khmer. Khmer Audiobook available here. 
 
 <hr>
 
-## Lavender Farm Pics
+## Lavender Farms In Cambodia
 
 https://youtu.be/7wQnIBYTMlo
 <hr>
 
-Sure thing! Here are some links to Pexels pictures for each of the topics you mentioned:
+## Links
 
 - **Lavender Farms**: You can find a variety of beautiful lavender farm photos [here](https://www.pexels.com/search/lavender%20farm/).
 - **Raspberry Pis**: Check out these Raspberry Pi photos [here](https://www.pexels.com/search/raspberry%20pi/).
@@ -102,7 +95,7 @@ Sure thing! Here are some links to Pexels pictures for each of the topics you me
 - **Jam Making**: Discover jam making photos [here](https://www.pexels.com/search/jam%20making/).
 - **Prompt Engineering**: Browse through prompt engineering photos [here](https://www.pexels.com/search/prompt%20engineering/).
 
-Absolutely! Here's your list of topics with English, Khmer script, and Khmer phonetics:
+## Khmer/English Lavender Farm Phrases
 
 ### Lavender Farms
 - **English**: Lavender Farms
@@ -129,13 +122,9 @@ Absolutely! Here's your list of topics with English, Khmer script, and Khmer pho
 - **Khmer**: សាងសង់កូដប្រយោល
 - **Phonetics**: Saang sang kod brayol
 
-I hope this is helpful! Let me know if you need any further assistance or if there’s anything else you’d like to explore! 😊
-
-I hope you find these helpful! If you need anything else, just let me know.
-
-Note: This version is released in English and Segmented Khmer. Khmer Audiobook available here. 
-
 <hr>
+
+## Unknown Draft / TODO: Translate
 
 ### KH: សកលអភិវឌ្ឍន៍ អនាគត សកម្មភាព យុទ្ធសាស្ត្រ កម្ពុជា និងអាស៊ីអាគ្នេយ៍ រូបភាព
 
