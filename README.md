@@ -173,6 +173,59 @@ Absolutely! I'll add the Khmer translations next to each English sentence.
 
 ![pexels-photo-7299989HYDROPONICSWOMAN](https://github.com/user-attachments/assets/e79f8308-95e5-4553-86f1-7223d0fe778f)
 
+### Lavender and Arid Herb Industry in Cambodia
+
+**English**: The lavender and arid herb industry in Cambodia is still in its nascent stages, but there is potential for growth due to the country's favorable climate and increasing interest in herbal products.
+**Khmer**: ឧស្សាហកម្មដាំដុះផ្កាលាវ័នឌ័រ និងរុក្ខជាតិគ្មានទឹកនៅកម្ពុជា នៅតែមានដំណាក់កាលដំបូង ប៉ុន្តែមានសក្តានុពលសម្រាប់ការលូតលាស់ ដោយសារតែអាកាសធាតុអំណោយផល និងការចាប់អារម្មណ៍កើនឡើងលើផលិតផលរុក្ខជាតិ។
+**Phonetics**: Ousakakamm dam dos phka lavan doe ning rukcheat kmean teuk now Kampuchea now tae mean danakal dambong, ponta mean sakdanupol samrab kar lutlas, doy sa te akasthit amnoy phol ning kar chap aromnean kern laer ler phlitphol rukcheat.
+
+### Success for Low Budget Innovative Farmers
+
+**English**: A low budget innovative farmer can be successful in Siem Reap, Kampot, or Phnom Penh by adopting sustainable farming practices, utilizing local resources, and leveraging community support.
+**Khmer**: កសិករច្នៃប្រឌិតដែលមានថវិកាតិចអាចទទួលបានជោគជ័យនៅសៀមរាប កំពត ឬភ្នំពេញ ដោយអនុវត្តន៍ការដាំដុះប្រកបដោយចីរភាព ប្រើប្រាស់ធនធានក្នុងស្រុក និងប្រើប្រាស់ការគាំទ្រពីសហគមន៍។
+**Phonetics**: Kasikor chnaibradit del mean thavika tech ach to tul ban choukchey now Siem Reap, Kampot, ru Phnom Penh doy anuvoat kar dam dos brokob doy cheyropheap, prapras thonthien knong srok ning prapras kar komtro pi sahakom.
+
+**English**: In Siem Reap, farmers can benefit from eco-tourism by offering farm tours and selling organic products to tourists.
+**Khmer**: នៅសៀមរាប កសិករអាចទទួលបានអត្ថប្រយោជន៍ពីទេសចរណ៍អេកូ ដោយផ្តល់ជូនដំណើរកំសាន្តនៅចំការនិងលក់ផលិតផលអ័រគានិកដល់ភ្ញៀវទេសចរ។
+**Phonetics**: Now Siem Reap, kasikor ach to tul ban athaproyoch pi tesachor eco doy pdal chun damner komsan now chamkar ning luak phlitphol organic dol phniev tesachor.
+
+### Lavender and Arid Herb Industry in Cambodia
+
+**English**: The lavender industry is new. The arid herb industry is new. Cambodia's climate is favorable. Interest in herbs is increasing.
+**Khmer**: ឧស្សាហកម្មផ្កាលាវ័នឌ័រ គឺថ្មី។ ឧស្សាហកម្មរុក្ខជាតិគ្មានទឹក គឺថ្មី។ អាកាសធាតុកម្ពុជាគឺអំណោយផល។ ចំណាប់អារម្មណ៍លើរុក្ខជាតិគឺកើនឡើង។
+**Phonetics**: Ousakakamm phka lavan doe keu thmei. Ousakakamm rukcheat kmean teuk keu thmei. Akasthit Kampuchea keu amnoy phol. Chamnap aromnean ler rukcheat keu kern laerng.
+
+### Success for Low Budget Innovative Farmers
+
+**English**: Farmers can adopt sustainable practices. Utilize local resources. Leverage community support. They can succeed.
+**Khmer**: កសិករអាចអនុវត្តន៍ការអភិរក្ស។ ប្រើប្រាស់ធនធានក្នុងស្រុក។ ប្រើប្រាស់ការគាំទ្រពីសហគមន៍។ ពួកគេអាចទទួលបានជោគជ័យ។
+**Phonetics**: Kasikor ach anuvoat kar aphirek. Prapras thonthien knong srok. Prapras kar komtro pi sahakom. Puok ke ach to tul ban choukchey.
+
+**English**: In Siem Reap, offer eco-tourism. Conduct farm tours. Sell organic products. Tourists will buy.
+**Khmer**: នៅសៀមរាប ផ្តល់ការទេសចរណ៍អេកូ។ ធ្វើការធ្វើដំណើរមកសំភោរនៅចំការនេះ។ លក់ផលិតផលអ័រគានិក។ ភ្ញៀវទេសចរនឹងទិញ។
+**Phonetics**: Now Siem Reap, pdal kar tesachor eco. Thveu kar thveu damnar meaksang now chamkar nih. Luak phlitphol organic. Phniev tesachor neng teng.
+
+**English**: In Kampot, focus on high-value crops. Grow pepper and herbs. Suitable to the climate. Farmers can profit.
+**Khmer**: នៅកំពត ផ្តោតលើដំណាំដែលមានតម្លៃខ្ពស់។ ដាំម្រេច និងរុក្ខជាតិ។ សមស្របនឹងអាកាសធាតុ។ កសិករអាចមានប្រាក់ចំណេញ។
+**Phonetics**: Now Kampot, pdaut ler damnam del mean tamlay kpuah. Dam mrev ning rukcheat. Som srop neng akasthit. Kasikor ach mean prachamnenh.
+
+**English**: In Phnom Penh, utilize urban markets. Sell directly to consumers. Use farmers' markets. Local shops are valuable.
+**Khmer**: នៅភ្នំពេញ ប្រើប្រាស់ទីផ្សារក្រុង។ លក់ដោយផ្ទាល់ទៅអ្នកប្រើប្រាស់។ ប្រើទីផ្សារកសិករ។ ហាងក្នុងស្រុកគឺមានតម្លៃ។
+**Phonetics**: Now Phnom Penh, prapras tepsar krong. Luak doy ptal tov neak prapras. Prap tepsar kasikor. Hang knong srok keu mean tamlay.
+
+I hope this format helps! If you have more questions, I'll be here to assist. For now, I'll take a break. Cheers! 😊
+
+
+**English**: In Kampot, farmers can focus on growing high-value crops like pepper and herbs, which are well-suited to the region's climate.
+**Khmer**: នៅកំពត កសិករអាចផ្តោតលើការដាំដុះដំណាំដែលមានតម្លៃខ្ពស់ដូចជម្រៅ និងរុក្ខជាតិ ដែលសមស្របនឹងអាកាសធាតុរបស់តំបន់។
+**Phonetics**: Now Kampot, kasikor ach pdaut ler kar dam dos damnam del mean tamlay kpuah doch chmrov ning rukcheat del som srop neng akasthit robos damban.
+
+**English**: In Phnom Penh, farmers can take advantage of urban markets and sell their produce directly to consumers through farmers' markets and local shops.
+**Khmer**: នៅភ្នំពេញ កសិករអាចទាញយកអត្ថប្រយោជន៍ពីទីផ្សារក្រុង និងលក់ផលិតផលរបស់ពួកគេដោយផ្ទាល់ទៅអ្នកប្រើប្រាស់តាមរយៈទីផ្សារកសិករ និងហាងក្នុងស្រុក។
+**Phonetics**: Now Phnom Penh, kasikor ach teanh yok athaproyoch pi tepsar krong ning luak phlitphol robos puok ke doy ptal tov neak prapras tamroyak tepsar kasikor ning hang knong srok.
+
+I hope this helps! If you have any more questions or need further assistance, feel free to ask. 😊
+
 ## Jam Making | ដំណាំប៊ីតស្រី | (dâmnâap bîtsa srəy)
 
 Making homemade jam is a delightful way to preserve the flavors of fruits and share them with loved ones.  
