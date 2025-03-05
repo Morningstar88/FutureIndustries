@@ -5,8 +5,7 @@
 
 ---
 
-### **Note**  
-This version is released in **English** and **Segmented Khmer**. A Khmer audiobook is available [here](#).  
+Audiobook is available [here](#).  
 
 ---
 
@@ -25,7 +24,7 @@ Here’s a list of future industries with **English**, **Khmer script**, and **K
 | Raspberry Pis        | Raspberry Pis       | រ៉ាសបេរី ពី           | Rasber Pi             |  
 | Hydroponics          | Hydroponics         | ការប៉ោនិកស៊ីត្រូផូនិច | Karponek Citrufanik   |  
 | Jam Making           | Jam Making          | ការធ្វើសណ្តែក         | Kar thveu san daeik   |  
-| Prompt Engineering   | Prompt Engineering  | សាងសង់កូដប្រយោល      | Saang sang kod brayol |  
+| AI Prompt Engineering   | AI Prompt Engineering  | សាងសង់កូដប្រយោល      | Saang sang kod brayol |  
 
 ---
 
@@ -52,11 +51,12 @@ Here’s a list of the most promising industries for growth and development, fro
 
 # **Clean technology, and more beautiful place**. 
 
-ggImagine creating villages straight out of **Lord of the Rings** or **Avatar**—where technology and nature coexist harmoniously.  
+Imagine creating villages straight out of **Lord of the Rings** or **Avatar**—where technology and nature coexist harmoniously.  
 
 <hr>
 
 ## **Photos and Resources**  
+
 Here are some links to **Pexels** photos for each topic:  
 
 - **Lavender Farms**: [Lavender Farm Photos](https://www.pexels.com/search/lavender%20farm/)  
