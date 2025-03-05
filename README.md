@@ -13,7 +13,15 @@ Audiobook is available [here](www.InsertLinkHere.com).
 
 ## Prompts... 
 
+Prompt engineering is the process of structuring or crafting an instruction in order to produce the best possible output from a generative artificial intelligence (AI) model.[1]
+
+A prompt is natural language text describing the task that an AI should perform.[2] A prompt for a text-to-text language model can be a query, a command, or a longer statement including context, instructions, and conversation history. Prompt engineering may involve phrasing a query, specifying a style, choice of words and grammar,[3] providing relevant context, or describing a character for the AI to mimic.[1]
+
 https://en.wikipedia.org/wiki/Prompt_engineering
+
+វិស្វកម្មរហ័សគឺជាដំណើរការនៃការរៀបចំរចនាសម្ព័ន្ធ ឬបង្កើតការណែនាំមួយក្នុងគោលបំណងផលិតនូវលទ្ធផលល្អបំផុតដែលអាចធ្វើទៅបានពីគំរូបញ្ញាសិប្បនិមិត្ត (AI)។[1]
+
+ប្រអប់បញ្ចូលគឺជាអត្ថបទភាសាធម្មជាតិដែលពិពណ៌នាអំពីកិច្ចការដែល AI គួរតែអនុវត្ត។[2] ប្រអប់បញ្ចូលសម្រាប់គំរូភាសាពីអត្ថបទទៅអត្ថបទអាចជាសំណួរ ពាក្យបញ្ជា ឬសេចក្តីថ្លែងការណ៍វែងជាង រួមទាំងបរិបទ ការណែនាំ និងប្រវត្តិនៃការសន្ទនា។ វិស្វកម្មភ្លាមៗអាចពាក់ព័ន្ធនឹងការសរសេរសំណួរ បញ្ជាក់រចនាប័ទ្ម ជម្រើសនៃពាក្យ និងវេយ្យាករណ៍ [3] ការផ្តល់បរិបទដែលពាក់ព័ន្ធ ឬពិពណ៌នាតួអក្សរសម្រាប់ AI ដើម្បីធ្វើត្រាប់តាម។[1]
 
 Copypaste the following prompts into Google. 
 
