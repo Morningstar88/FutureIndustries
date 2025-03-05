@@ -5,13 +5,25 @@
 
 ---
 
-Audiobook is available [here](#).  
+Audiobook is available [here](www.InsertLinkHere.com).  
 
 ---
 
+<hr>
+
 ## **Lavender Farms**  
-- **Video**: [Lavender Farm Tour](https://youtu.be/7wQnIBYTMlo)  
-- **Photos**: [Lavender Farms on Pexels](https://www.pexels.com/search/lavender%20farm/)  
+- **Video**: [Lavender Farm Tour](https://youtu.be/7wQnIBYTMlo)
+
+- Describe this picture... what can you see?
+
+I can see a... I think it's a... the colours are... the sky looks.. the ground is... Maybe it is / maybe they are...
+
+  ![image](https://github.com/user-attachments/assets/ddfd6a54-6286-43bf-883d-e3490c709aee)
+
+- **Photos**: [Lavender Farms on Pexels](https://www.pexels.com/search/lavender%20farm/)
+
+![image](https://github.com/user-attachments/assets/57b3465f-985a-4219-9727-e398666f0c95)
+
 
 ---
 
@@ -70,15 +82,7 @@ Here are some links to **Pexels** photos for each topic:
 ## **Conclusion**  
 The future is bright for **Cambodia** and **Southeast Asia**. By embracing these industries, we can build a world that’s not only **economically prosperous** but also **environmentally sustainable** and **culturally rich**.  
 
-Let’s create a future that feels like a blend of **cyberpunk innovation** and **Hobbit-like simplicity**—where technology and nature thrive together.  
-
 ---
-
-Let me know if you’d like me to refine this further or add more sections! 🚀
-
-<hr>
-
-Note: This version is released in English and Segmented Khmer. Khmer Audiobook available here. 
 
 <hr>
 
@@ -86,14 +90,6 @@ Note: This version is released in English and Segmented Khmer. Khmer Audiobook a
 
 https://youtu.be/7wQnIBYTMlo
 <hr>
-
-## Links
-
-- **Lavender Farms**: You can find a variety of beautiful lavender farm photos [here](https://www.pexels.com/search/lavender%20farm/).
-- **Raspberry Pis**: Check out these Raspberry Pi photos [here](https://www.pexels.com/search/raspberry%20pi/).
-- **Hydroponics**: Explore hydroponic photos [here](https://www.pexels.com/search/hydroponic/).
-- **Jam Making**: Discover jam making photos [here](https://www.pexels.com/search/jam%20making/).
-- **Prompt Engineering**: Browse through prompt engineering photos [here](https://www.pexels.com/search/prompt%20engineering/).
 
 ## Khmer/English Lavender Farm Phrases
 
@@ -132,11 +128,29 @@ https://youtu.be/7wQnIBYTMlo
 
 ខ្ញុំបានតែងបញ្ជី ឧស្សាហកម្មល្អបំផុត ច្រើនណាស់ គឺពី សាមញ្ញៗដូចជា ដុតនំបុ័ង និងធ្វើម៉ាមដល់ការធ្វើឲ្យ ធម្មជាតិត្រលប់មកវិញ និងសម្អាតទន្លេ ដាក់ព្រៃឈើ ឧស្សាហកម្ម រ៉ូស្មារី និង ឡាវិនឌ័រ សួនច្បារប្រើប្រាស់ខាងផ្ទះ ភាសា និងម៉ាស្សា ការអប់រំបច្ចេកវិទ្យា តម្លៃទាប AR តម្លៃទាប ហាវកាន កាហ្វេអ៊ីន ផ្គត់ផ្គង់ថាមពលដោយឥតគិតថ្លៃ ឡាវិនឌ័រ Raspberry Pi និងមិត្តភក្តិ ការធ្វើភាពយន្តដោយ ទូរស័ព្ទដៃ Calcium hypochlorite និងchlorine dioxide។ វីតាមីន C ឧបករណ៍សុខភាព ឧស្សាហកម្មឧបករណ៍ ការងារផ្ទះ។
 
-ខ្ញុំបានធ្វើអោយប្រាកដថា គ្របដណ្តប់លើអាជីវកម្មដែលមានសក្តានុពល ។ ចងចាំថា នេះ មិនមែនគំនិតមេផ្ទុះនៅមេឃទេ ទេពិតជា អាជីវកម្មពិតៗ ដែលមានស្រាប់ ក៏អ្នកទាំងឡាយកំពុងរុងរឿងពីនេះ។
-
 ឧស្សាហកម្មទាំងអស់នេះ ធ្វើឲ្យ ពិភពលោកល្អប្រសើរ ងាយស្រួលស្អាត និងស្អាត ទៀត។
 
 យើងគួរតែបង្កើតភូមិ ដូចជានៅក្នុងលោក ពី Lord of The Rings ឬ Avatar ។
+
+Global Development Future Action Strategy Cambodia and Southeast Asia Images
+
+Showing Southeast Asia, especially Cambodia, is a region rich in culture, history and economy without hesitation. We look to the future industries that can drive growth and development.
+
+I have compiled a list of many of the best industries, from simple ones like baking and making jam to restoring nature and cleaning rivers, reforesting, industrial rosemary and lavender, home gardening, languages ​​and massage, low-cost technology education, low-cost AR, Hawkan, caffeine, free energy supply, lavender, Raspberry Pi and friends, mobile phone filmmaking, Calcium hypochlorite and chlorine dioxide. Vitamin C, health products, industrial appliances, home work.
+
+I made sure to cover the potential businesses. Remember, these are not ideas that explode in the sky, but real businesses that exist, and people are thriving from them.
+
+All of these industries make the world a better, cleaner and more beautiful place.
+
+We should create villages, like in the worlds from Lord of The Rings or Avatar.Global Development Future Action Strategy Cambodia and Southeast Asia Images
+
+Showing Southeast Asia, especially Cambodia, is a region rich in culture, history and economy without hesitation. We look to the future industries that can drive growth and development.
+
+I have compiled a list of many of the best industries, from simple ones like baking and making jam to restoring nature and cleaning rivers, reforesting, industrial rosemary and lavender, home gardening, languages ​​and massage, low-cost technology education, low-cost AR, Hawkan, caffeine, free energy supply, lavender, Raspberry Pi and friends, mobile phone filmmaking, Calcium hypochlorite and chlorine dioxide. Vitamin C, health products, industrial appliances, home work.
+
+All of these industries make the world a better, cleaner and more beautiful place.
+
+We should create villages, like in the worlds from Lord of The Rings or Avatar.
 
 <hr>
 
