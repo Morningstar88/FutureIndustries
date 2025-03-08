@@ -1,8 +1,34 @@
 # 100 AI Prompts for a Slightly Better World
 
-# Villages of The Future
+# KEY QUESTIONS
 
-Absolutely! The concept of "Villages of the Future" often revolves around sustainable living, innovative technology, and community-driven development. Here are 15 thought-provoking prompts related to this idea:
+# Sliding Timelines for Beginners
+
+1. **How does quantum physics show that multiple possibilities can exist at once in our lives?**  
+2. **Can quantum physics explain how events in our lives might be connected in strange ways?**  
+3. **How does the act of observing something change how we see the past, present, or future?**  
+4. **Could quantum physics allow for the idea of jumping between different life paths?**  
+5. **Does quantum physics suggest that there are other versions of our lives happening at the same time?**  
+6. **How does quantum physics explain why we only experience one timeline instead of many?**  
+7. **How is the uncertainty of the future like the uncertainty in quantum physics?**  
+8. **Can the future affect the past, according to quantum physics?**  
+9. **How could new kinds of "quantum clocks" change how we think about time in our lives?**  
+10. **Does quantum physics suggest that our minds play a role in how we experience time?**  
+
+# Timelines and Quantum Physics
+
+1. **How does quantum superposition challenge our traditional understanding of linear life timelines?**  
+2. **Can quantum entanglement provide insights into the interconnectedness of events across a life timeline?**  
+3. **What role does the observer effect play in shaping our perception of past, present, and future?**  
+4. **How might the concept of quantum tunneling influence the idea of alternate life paths or timelines?**  
+5. **What does the Many-Worlds Interpretation of quantum mechanics suggest about parallel life timelines?**  
+6. **How can quantum decoherence help explain the transition from potential futures to a single experienced timeline?**  
+7. **What parallels exist between quantum probability waves and the uncertainty of future life events?**  
+8. **How does the concept of quantum retrocausality challenge our understanding of cause and effect in life timelines?**  
+9. **Can quantum clocks or time crystals provide a new framework for measuring and understanding life timelines?**  
+10. **How might quantum consciousness theories reshape our understanding of how we experience and navigate time?**  
+
+# Villages of The Future
 
 1. **What are the key features of a sustainable village of the future?**  
 2. **How can low-tech, grassroots renewable energy sources be integrated into villages of the future?**  
@@ -18,9 +44,75 @@ Absolutely! The concept of "Villages of the Future" often revolves around sustai
 12. **How can villages of the future address climate change and build resilience against natural disasters?**  
 13. **What role do circular economies play in creating self-sustaining villages of the future?**  
 14. **How can villages of the future leverage digital connectivity to improve healthcare and public services?**  
-15. **What lessons can we learn from existing eco-villages or sustainable communities to build villages of the future?**  
+15. **What lessons can we learn from existing eco-villages or sustainable communities to build villages of the future?**
 
-These prompts explore the multifaceted aspects of designing and living in villages that are sustainable, technologically advanced, and community-focused. Perfect for sparking ideas and discussions! 🌍🏡
+# Gormless Neo
+
+1. How does Neo accidentally trigger glitches in the Matrix while trying to use a smartphone?  
+2. Why does Neo keep misunderstanding the Oracle’s advice, and how does it somehow still work out?  
+3. What are the most ridiculous ways Neo manages to dodge Agents without even realizing they’re after him?  
+4. How does Neo’s desire for a quiet life lead him to accidentally destabilize the Matrix?  
+5. Can Neo bend reality around household appliances, and what does it mean for the Matrix?  
+6. How does Neo’s incompetence somehow make him the most unpredictable force in the system?  
+7. What bizarre glitches does Neo trigger while trying to figure out how to use a touchscreen?  
+8. How do inanimate objects and animals in the Matrix start helping Neo without him even noticing?  
+9. What happens when Neo accidentally creates a third option that breaks the Matrix’s binary logic?  
+10. Can Neo defeat the Architect by accidentally reprogramming the Matrix with a TV remote?  
+
+
+# Distributed Search
+
+1. How does browser-based distributed search work compared to traditional centralized search engines?  
+2. What are the advantages of using a distributed search system for user privacy and data security?  
+3. How can blockchain technology enhance browser-based distributed search systems?  
+4. What role do peer-to-peer networks play in enabling distributed search across browsers?  
+5. How can browser-based distributed search reduce the monopolistic control of big tech companies over information?  
+6. What challenges do distributed search systems face in terms of speed and scalability?  
+7. How can users contribute to a distributed search network without compromising their own resources?  
+8. What are some real-world examples of browser-based distributed search systems, and how do they function?  
+9. How can distributed search systems ensure the accuracy and reliability of search results?  
+10. What future innovations could make browser-based distributed search more accessible and user-friendly?  
+
+---
+
+These prompts cover the technical, ethical, and practical aspects of browser-based distributed search, making them great for exploring the topic in depth. Let me know if you’d like to expand on any of these! 🌐🔍
+
+# How to Be Funny 
+
+### **Understanding Humor**
+1. **What makes something funny, and how can you use that to connect with an audience?**  
+2. **How do cultural differences influence what people find funny?**  
+3. **What are the different types of humor (e.g., observational, absurd, self-deprecating), and how do you use them effectively?**  
+4. **Why is timing so important in comedy, and how can you improve it?**  
+5. **How do you find humor in everyday life and turn it into comedy material?**
+
+---
+
+### **Writing Comedy**
+6. **What’s the process for writing a great joke or comedy routine?**  
+7. **How do you structure a setlist for a pub comedy performance?**  
+8. **What are some techniques for turning a boring topic into something hilarious?**  
+9. **How do you use callbacks effectively in comedy?**  
+10. **What’s the role of exaggeration and absurdity in making people laugh?**
+
+---
+
+### **Performing Comedy**
+11. **How do you overcome stage fright and build confidence as a comedian?**  
+12. **What are the best ways to read and engage with a live audience?**  
+13. **How do you handle hecklers or unexpected interruptions during a set?**  
+14. **What’s the importance of body language and voice tone in delivering jokes?**  
+15. **How do you recover when a joke doesn’t land?**
+
+---
+
+### **Pub Comedy Specifics**
+16. **What makes pub comedy unique compared to other comedy venues?**  
+17. **How do you tailor your material to a pub audience?**  
+18. **What are the dos and don’ts of performing in a noisy or distracted pub environment?**  
+19. **How do you use alcohol and pub culture as material without offending the crowd?**  
+20. **What’s the best way to build a local following as a pub comedian?**
+
 
 # Linus Pauling and Heart Disease
 
@@ -41,8 +133,6 @@ These prompts explore the multifaceted aspects of designing and living in villag
 # Farming
 
 Got it! Let’s simplify and make it clean by turning the follow-ups into equal-level questions. Now each question stands on its own, creating a straightforward and engaging list for someone starting in bottle farming:
-
----
 
 1. **What are the best types of plants to grow in bottles or containers?**  
 2. **Why do some plants thrive better in confined spaces than others?**  
