@@ -11,6 +11,202 @@ Information is a currency and sometimes a weapon. This book is a gateway to unde
 
 # KEY QUESTIONS
 
+# Simple Javascript Trading Bots
+
+Absolutely! Let’s refine the prompts to explicitly include APIs like CoinDesk, CoinGecko, or others, making them more specific and actionable. Here’s the updated list with APIs integrated:
+
+---
+
+### **Prompt 1: USD vs. Bitcoin Price Checker**  
+**"Write JavaScript console code to fetch and display the current price of Bitcoin in USD using the CoinDesk API."**
+
+```javascript
+fetch('https://api.coindesk.com/v1/bpi/currentprice/USD.json')
+  .then(response => response.json())
+  .then(data => {
+    const price = data.bpi.USD.rate;
+    console.log(`Current Bitcoin price in USD: $${price}`);
+  })
+  .catch(error => console.error('Error fetching Bitcoin price:', error));
+```
+
+---
+
+### **Prompt 2: Ethereum Price Monitor**  
+**"Write a script that monitors the price of Ethereum every 10 seconds using the CoinGecko API and alerts the user if the price drops below a specified threshold."**
+
+```javascript
+const threshold = 1500; // Set your threshold price in USD
+setInterval(() => {
+  fetch('https://api.coingecko.com/api/v3/simple/price?ids=ethereum&vs_currencies=usd')
+    .then(response => response.json())
+    .then(data => {
+      const price = data.ethereum.usd;
+      console.log(`Current Ethereum price: $${price}`);
+      if (price < threshold) {
+        console.log(`Alert: Ethereum price is below $${threshold}!`);
+      }
+    })
+    .catch(error => console.error('Error fetching Ethereum price:', error));
+}, 10000); // Check every 10 seconds
+```
+
+---
+
+### **Prompt 3: Top 5 Cryptocurrencies by Market Cap**  
+**"Create a bot that fetches and displays the top 5 cryptocurrencies by market cap using the CoinGecko API."**
+
+```javascript
+fetch('https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=5')
+  .then(response => response.json())
+  .then(data => {
+    console.log('Top 5 Cryptocurrencies by Market Cap:');
+    data.forEach((coin, index) => {
+      console.log(`${index + 1}. ${coin.name} (${coin.symbol.toUpperCase()}): $${coin.current_price}`);
+    });
+  })
+  .catch(error => console.error('Error fetching data:', error));
+```
+
+---
+
+### **Prompt 4: Bitcoin 24-Hour Average Price**  
+**"Write a script that calculates the average price of Bitcoin over the last 24 hours using historical data from the CoinGecko API."**
+
+```javascript
+fetch('https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=1')
+  .then(response => response.json())
+  .then(data => {
+    const prices = data.prices.map(entry => entry[1]);
+    const average = prices.reduce((sum, price) => sum + price, 0) / prices.length;
+    console.log(`Average Bitcoin price over the last 24 hours: $${average.toFixed(2)}`);
+  })
+  .catch(error => console.error('Error fetching Bitcoin data:', error));
+```
+
+---
+
+### **Prompt 5: Price Comparison Across Exchanges**  
+**"Create a bot that compares the price of Bitcoin on Binance and Coinbase using the CoinGecko API and logs any significant discrepancies."**
+
+```javascript
+fetch('https://api.coingecko.com/api/v3/exchanges/binance/tickers?coin_id=bitcoin')
+  .then(response => response.json())
+  .then(binanceData => {
+    const binancePrice = binanceData.tickers.find(t => t.target === 'USD').last;
+    fetch('https://api.coingecko.com/api/v3/exchanges/coinbase/tickers?coin_id=bitcoin')
+      .then(response => response.json())
+      .then(coinbaseData => {
+        const coinbasePrice = coinbaseData.tickers.find(t => t.target === 'USD').last;
+        console.log(`Binance Bitcoin price: $${binancePrice}`);
+        console.log(`Coinbase Bitcoin price: $${coinbasePrice}`);
+        const discrepancy = Math.abs(binancePrice - coinbasePrice);
+        if (discrepancy > 100) { // Set your discrepancy threshold
+          console.log(`Significant price discrepancy detected: $${discrepancy}`);
+        }
+      })
+      .catch(error => console.error('Error fetching Coinbase data:', error));
+  })
+  .catch(error => console.error('Error fetching Binance data:', error));
+```
+
+---
+
+### **Prompt 6: Cryptocurrency Percentage Change**  
+**"Write a script that tracks the percentage change in the price of a cryptocurrency over the last hour using the CoinGecko API and displays it in the console."**
+
+```javascript
+fetch('https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=1')
+  .then(response => response.json())
+  .then(data => {
+    const prices = data.prices.map(entry => entry[1]);
+    const currentPrice = prices[prices.length - 1];
+    const pastPrice = prices[0];
+    const percentChange = ((currentPrice - pastPrice) / pastPrice) * 100;
+    console.log(`Bitcoin price change over the last hour: ${percentChange.toFixed(2)}%`);
+  })
+  .catch(error => console.error('Error fetching Bitcoin data:', error));
+```
+
+---
+
+### **Prompt 7: Fear and Greed Index**  
+**"Create a bot that fetches and displays the current fear and greed index for the cryptocurrency market using the Alternative.me API."**
+
+```javascript
+fetch('https://api.alternative.me/fng/')
+  .then(response => response.json())
+  .then(data => {
+    const index = data.data[0].value;
+    const sentiment = data.data[0].value_classification;
+    console.log(`Current Crypto Fear & Greed Index: ${index} (${sentiment})`);
+  })
+  .catch(error => console.error('Error fetching Fear & Greed Index:', error));
+```
+
+---
+
+### **Prompt 8: Basic Trading Strategy Simulator**  
+**"Write a script that simulates a basic trading strategy, such as buying when the price drops by 5% and selling when it rises by 5%, using the CoinGecko API."**
+
+```javascript
+let lastPrice = null;
+setInterval(() => {
+  fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd')
+    .then(response => response.json())
+    .then(data => {
+      const currentPrice = data.bitcoin.usd;
+      if (lastPrice) {
+        const change = ((currentPrice - lastPrice) / lastPrice) * 100;
+        if (change <= -5) {
+          console.log(`Price dropped by 5%! Buy signal at $${currentPrice}`);
+        } else if (change >= 5) {
+          console.log(`Price rose by 5%! Sell signal at $${currentPrice}`);
+        }
+      }
+      lastPrice = currentPrice;
+    })
+    .catch(error => console.error('Error fetching Bitcoin price:', error));
+}, 60000); // Check every minute
+```
+
+---
+
+### **Prompt 9: Cryptocurrency News Sentiment**  
+**"Create a bot that fetches and displays the latest news headlines related to cryptocurrencies using the CryptoCompare API and logs their sentiment (positive/negative/neutral)."**
+
+```javascript
+fetch('https://min-api.cryptocompare.com/data/v2/news/?lang=EN')
+  .then(response => response.json())
+  .then(data => {
+    console.log('Latest Cryptocurrency News:');
+    data.Data.slice(0, 5).forEach((news, index) => {
+      console.log(`${index + 1}. ${news.title} - Sentiment: ${news.sentiment}`);
+    });
+  })
+  .catch(error => console.error('Error fetching news:', error));
+```
+
+---
+
+### **Prompt 10: Trading Volume Spike Alert**  
+**"Write a script that monitors the trading volume of a cryptocurrency using the CoinGecko API and alerts the user if it spikes above a certain threshold."**
+
+```javascript
+const threshold = 1000000000; // Set your volume threshold in USD
+fetch('https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=1')
+  .then(response => response.json())
+  .then(data => {
+    const volumes = data.total_volumes.map(entry => entry[1]);
+    const currentVolume = volumes[volumes.length - 1];
+    console.log(`Current Bitcoin trading volume: $${currentVolume}`);
+    if (currentVolume > threshold) {
+      console.log(`Alert: Trading volume spike detected! Current volume: $${currentVolume}`);
+    }
+  })
+  .catch(error => console.error('Error fetching Bitcoin data:', error));
+
+
 # Sliding Timelines for Beginners
 
 1. **How does quantum physics show that multiple possibilities can exist at once in our lives?**  
