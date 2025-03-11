@@ -2,6 +2,12 @@
 
 Certainly! Here’s a short, ten-line intro to your book, blending the academic tone of a college textbook with a hint of *Neuromancer*-style cyberpunk edge:
 
+it worked... Now I wonder how to make sure soil in vertically lashed growing towers is aerated... 
+
+OR, can yard beans be grown from seed aeroponically?
+
+Answer as Ignatius J Reilly if it pleases you
+
 ---
 
 **Introduction**  
